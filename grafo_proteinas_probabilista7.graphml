@@ -1,0 +1,3379 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d1" for="edge" attr.name="prob" attr.type="double"/>
+<key id="d0" for="edge" attr.name="score" attr.type="double"/>
+<graph edgedefault="undirected"><node id="195522.BD01_0025"/>
+<node id="195522.BD01_0171"/>
+<node id="195522.BD01_2033"/>
+<node id="195522.BD01_0044"/>
+<node id="195522.BD01_0045"/>
+<node id="195522.BD01_0073"/>
+<node id="195522.BD01_0818"/>
+<node id="195522.BD01_2183"/>
+<node id="195522.BD01_1932"/>
+<node id="195522.BD01_1919"/>
+<node id="195522.BD01_1828"/>
+<node id="195522.BD01_1405"/>
+<node id="195522.BD01_1378"/>
+<node id="195522.BD01_1302"/>
+<node id="195522.BD01_1291"/>
+<node id="195522.BD01_0146"/>
+<node id="195522.BD01_0253"/>
+<node id="195522.BD01_0345"/>
+<node id="195522.BD01_0375"/>
+<node id="195522.BD01_0692"/>
+<node id="195522.BD01_0722"/>
+<node id="195522.BD01_0724"/>
+<node id="195522.BD01_0746"/>
+<node id="195522.BD01_0862"/>
+<node id="195522.BD01_2202"/>
+<node id="195522.BD01_2199"/>
+<node id="195522.BD01_0082"/>
+<node id="195522.BD01_1607"/>
+<node id="195522.BD01_0814"/>
+<node id="195522.BD01_0095"/>
+<node id="195522.BD01_0713"/>
+<node id="195522.BD01_1914"/>
+<node id="195522.BD01_1110"/>
+<node id="195522.BD01_0110"/>
+<node id="195522.BD01_1160"/>
+<node id="195522.BD01_0119"/>
+<node id="195522.BD01_0735"/>
+<node id="195522.BD01_0290"/>
+<node id="195522.BD01_1320"/>
+<node id="195522.BD01_0173"/>
+<node id="195522.BD01_0185"/>
+<node id="195522.BD01_0601"/>
+<node id="195522.BD01_0756"/>
+<node id="195522.BD01_0187"/>
+<node id="195522.BD01_2187"/>
+<node id="195522.BD01_2151"/>
+<node id="195522.BD01_0188"/>
+<node id="195522.BD01_2188"/>
+<node id="195522.BD01_0189"/>
+<node id="195522.BD01_0190"/>
+<node id="195522.BD01_0192"/>
+<node id="195522.BD01_0950"/>
+<node id="195522.BD01_1732"/>
+<node id="195522.BD01_2034"/>
+<node id="195522.BD01_2169"/>
+<node id="195522.BD01_2186"/>
+<node id="195522.BD01_2074"/>
+<node id="195522.BD01_0275"/>
+<node id="195522.BD01_0617"/>
+<node id="195522.BD01_0193"/>
+<node id="195522.BD01_0221"/>
+<node id="195522.BD01_0382"/>
+<node id="195522.BD01_0232"/>
+<node id="195522.BD01_0234"/>
+<node id="195522.BD01_0180"/>
+<node id="195522.BD01_0641"/>
+<node id="195522.BD01_2137"/>
+<node id="195522.BD01_1037"/>
+<node id="195522.BD01_0858"/>
+<node id="195522.BD01_0642"/>
+<node id="195522.BD01_0245"/>
+<node id="195522.BD01_0281"/>
+<node id="195522.BD01_0282"/>
+<node id="195522.BD01_0289"/>
+<node id="195522.BD01_0300"/>
+<node id="195522.BD01_0334"/>
+<node id="195522.BD01_0348"/>
+<node id="195522.BD01_0934"/>
+<node id="195522.BD01_0350"/>
+<node id="195522.BD01_0634"/>
+<node id="195522.BD01_0352"/>
+<node id="195522.BD01_0373"/>
+<node id="195522.BD01_0376"/>
+<node id="195522.BD01_0378"/>
+<node id="195522.BD01_0467"/>
+<node id="195522.BD01_0474"/>
+<node id="195522.BD01_0929"/>
+<node id="195522.BD01_1731"/>
+<node id="195522.BD01_0477"/>
+<node id="195522.BD01_0501"/>
+<node id="195522.BD01_0542"/>
+<node id="195522.BD01_0552"/>
+<node id="195522.BD01_0829"/>
+<node id="195522.BD01_0571"/>
+<node id="195522.BD01_0932"/>
+<node id="195522.BD01_2152"/>
+<node id="195522.BD01_2154"/>
+<node id="195522.BD01_0604"/>
+<node id="195522.BD01_1570"/>
+<node id="195522.BD01_1825"/>
+<node id="195522.BD01_2130"/>
+<node id="195522.BD01_0612"/>
+<node id="195522.BD01_2156"/>
+<node id="195522.BD01_0614"/>
+<node id="195522.BD01_0615"/>
+<node id="195522.BD01_0616"/>
+<node id="195522.BD01_0633"/>
+<node id="195522.BD01_2100"/>
+<node id="195522.BD01_1714"/>
+<node id="195522.BD01_1854"/>
+<node id="195522.BD01_1104"/>
+<node id="195522.BD01_1258"/>
+<node id="195522.BD01_0266"/>
+<node id="195522.BD01_2263"/>
+<node id="195522.BD01_1624"/>
+<node id="195522.BD01_0948"/>
+<node id="195522.BD01_0645"/>
+<node id="195522.BD01_1162"/>
+<node id="195522.BD01_1157"/>
+<node id="195522.BD01_1161"/>
+<node id="195522.BD01_0648"/>
+<node id="195522.BD01_1425"/>
+<node id="195522.BD01_2081"/>
+<node id="195522.BD01_0651"/>
+<node id="195522.BD01_1501"/>
+<node id="195522.BD01_1906"/>
+<node id="195522.BD01_1921"/>
+<node id="195522.BD01_2003"/>
+<node id="195522.BD01_1376"/>
+<node id="195522.BD01_0029"/>
+<node id="195522.BD01_1926"/>
+<node id="195522.BD01_0186"/>
+<node id="195522.BD01_0725"/>
+<node id="195522.BD01_0816"/>
+<node id="195522.BD01_1014"/>
+<node id="195522.BD01_1083"/>
+<node id="195522.BD01_1254"/>
+<node id="195522.BD01_1305"/>
+<node id="195522.BD01_1326"/>
+<node id="195522.BD01_1327"/>
+<node id="195522.BD01_1328"/>
+<node id="195522.BD01_1330"/>
+<node id="195522.BD01_1332"/>
+<node id="195522.BD01_1339"/>
+<node id="195522.BD01_1416"/>
+<node id="195522.BD01_1491"/>
+<node id="195522.BD01_1492"/>
+<node id="195522.BD01_1821"/>
+<node id="195522.BD01_1984"/>
+<node id="195522.BD01_2172"/>
+<node id="195522.BD01_2195"/>
+<node id="195522.BD01_0723"/>
+<node id="195522.BD01_1359"/>
+<node id="195522.BD01_0893"/>
+<node id="195522.BD01_0987"/>
+<node id="195522.BD01_1933"/>
+<node id="195522.BD01_2085"/>
+<node id="195522.BD01_0729"/>
+<node id="195522.BD01_0740"/>
+<node id="195522.BD01_1635"/>
+<node id="195522.BD01_1774"/>
+<node id="195522.BD01_1953"/>
+<node id="195522.BD01_0768"/>
+<node id="195522.BD01_0823"/>
+<node id="195522.BD01_0827"/>
+<node id="195522.BD01_2149"/>
+<node id="195522.BD01_0847"/>
+<node id="195522.BD01_0849"/>
+<node id="195522.BD01_0854"/>
+<node id="195522.BD01_0857"/>
+<node id="195522.BD01_1715"/>
+<node id="195522.BD01_1430"/>
+<node id="195522.BD01_1431"/>
+<node id="195522.BD01_0869"/>
+<node id="195522.BD01_0909"/>
+<node id="195522.BD01_0916"/>
+<node id="195522.BD01_0200"/>
+<node id="195522.BD01_0933"/>
+<node id="195522.BD01_1368"/>
+<node id="195522.BD01_1676"/>
+<node id="195522.BD01_0952"/>
+<node id="195522.BD01_0957"/>
+<node id="195522.BD01_0961"/>
+<node id="195522.BD01_0963"/>
+<node id="195522.BD01_1856"/>
+<node id="195522.BD01_1033"/>
+<node id="195522.BD01_1078"/>
+<node id="195522.BD01_0043"/>
+<node id="195522.BD01_1154"/>
+<node id="195522.BD01_1584"/>
+<node id="195522.BD01_1158"/>
+<node id="195522.BD01_2124"/>
+<node id="195522.BD01_1166"/>
+<node id="195522.BD01_1365"/>
+<node id="195522.BD01_1159"/>
+<node id="195522.BD01_1404"/>
+<node id="195522.BD01_1165"/>
+<node id="195522.BD01_1235"/>
+<node id="195522.BD01_1244"/>
+<node id="195522.BD01_1245"/>
+<node id="195522.BD01_0410"/>
+<node id="195522.BD01_0608"/>
+<node id="195522.BD01_2046"/>
+<node id="195522.BD01_1267"/>
+<node id="195522.BD01_1279"/>
+<node id="195522.BD01_1289"/>
+<node id="195522.BD01_1295"/>
+<node id="195522.BD01_1985"/>
+<node id="195522.BD01_1335"/>
+<node id="195522.BD01_1348"/>
+<node id="195522.BD01_0522"/>
+<node id="195522.BD01_1387"/>
+<node id="195522.BD01_1437"/>
+<node id="195522.BD01_1508"/>
+<node id="195522.BD01_1510"/>
+<node id="195522.BD01_0246"/>
+<node id="195522.BD01_0316"/>
+<node id="195522.BD01_0606"/>
+<node id="195522.BD01_2193"/>
+<node id="195522.BD01_1637"/>
+<node id="195522.BD01_1644"/>
+<node id="195522.BD01_1639"/>
+<node id="195522.BD01_0037"/>
+<node id="195522.BD01_1721"/>
+<node id="195522.BD01_1729"/>
+<node id="195522.BD01_1733"/>
+<node id="195522.BD01_1789"/>
+<node id="195522.BD01_0097"/>
+<node id="195522.BD01_1853"/>
+<node id="195522.BD01_1864"/>
+<node id="195522.BD01_1959"/>
+<node id="195522.BD01_1974"/>
+<node id="195522.BD01_1975"/>
+<node id="195522.BD01_1994"/>
+<node id="195522.BD01_2008"/>
+<node id="195522.BD01_2020"/>
+<node id="195522.BD01_2053"/>
+<node id="195522.BD01_2058"/>
+<node id="195522.BD01_2080"/>
+<node id="195522.BD01_2094"/>
+<node id="195522.BD01_2095"/>
+<node id="195522.BD01_2096"/>
+<node id="195522.BD01_2098"/>
+<node id="195522.BD01_0004"/>
+<node id="195522.BD01_1181"/>
+<node id="195522.BD01_2079"/>
+<node id="195522.BD01_2145"/>
+<node id="195522.BD01_2148"/>
+<node id="195522.BD01_2150"/>
+<node id="195522.BD01_2153"/>
+<node id="195522.BD01_2155"/>
+<node id="195522.BD01_2158"/>
+<node id="195522.BD01_2159"/>
+<node id="195522.BD01_2160"/>
+<node id="195522.BD01_2161"/>
+<node id="195522.BD01_2162"/>
+<node id="195522.BD01_2163"/>
+<node id="195522.BD01_2164"/>
+<node id="195522.BD01_2165"/>
+<node id="195522.BD01_2166"/>
+<node id="195522.BD01_2167"/>
+<node id="195522.BD01_2168"/>
+<node id="195522.BD01_2170"/>
+<node id="195522.BD01_2171"/>
+<node id="195522.BD01_2175"/>
+<node id="195522.BD01_2177"/>
+<node id="195522.BD01_2185"/>
+<node id="195522.BD01_2190"/>
+<node id="195522.BD01_2191"/>
+<node id="195522.BD01_2192"/>
+<node id="195522.BD01_2196"/>
+<node id="195522.BD01_2197"/>
+<node id="195522.BD01_2208"/>
+<node id="195522.BD01_2244"/>
+<node id="195522.BD01_2265"/>
+<edge source="195522.BD01_0025" target="195522.BD01_0171">
+  <data key="d0">352.0</data>
+  <data key="d1">0.352</data>
+</edge>
+<edge source="195522.BD01_0025" target="195522.BD01_2033">
+  <data key="d0">350.0</data>
+  <data key="d1">0.35</data>
+</edge>
+<edge source="195522.BD01_0171" target="195522.BD01_0044">
+  <data key="d0">190.0</data>
+  <data key="d1">0.19</data>
+</edge>
+<edge source="195522.BD01_0171" target="195522.BD01_0045">
+  <data key="d0">201.0</data>
+  <data key="d1">0.201</data>
+</edge>
+<edge source="195522.BD01_0171" target="195522.BD01_1302">
+  <data key="d0">205.0</data>
+  <data key="d1">0.205</data>
+</edge>
+<edge source="195522.BD01_0171" target="195522.BD01_0862">
+  <data key="d0">205.0</data>
+  <data key="d1">0.205</data>
+</edge>
+<edge source="195522.BD01_0171" target="195522.BD01_2202">
+  <data key="d0">205.0</data>
+  <data key="d1">0.205</data>
+</edge>
+<edge source="195522.BD01_0171" target="195522.BD01_2199">
+  <data key="d0">202.0</data>
+  <data key="d1">0.202</data>
+</edge>
+<edge source="195522.BD01_0171" target="195522.BD01_0173">
+  <data key="d0">199.0</data>
+  <data key="d1">0.199</data>
+</edge>
+<edge source="195522.BD01_0171" target="195522.BD01_2187">
+  <data key="d0">242.0</data>
+  <data key="d1">0.242</data>
+</edge>
+<edge source="195522.BD01_0171" target="195522.BD01_2151">
+  <data key="d0">190.0</data>
+  <data key="d1">0.19</data>
+</edge>
+<edge source="195522.BD01_0171" target="195522.BD01_0190">
+  <data key="d0">220.0</data>
+  <data key="d1">0.22</data>
+</edge>
+<edge source="195522.BD01_0171" target="195522.BD01_0192">
+  <data key="d0">242.0</data>
+  <data key="d1">0.242</data>
+</edge>
+<edge source="195522.BD01_0171" target="195522.BD01_2034">
+  <data key="d0">242.0</data>
+  <data key="d1">0.242</data>
+</edge>
+<edge source="195522.BD01_0171" target="195522.BD01_2169">
+  <data key="d0">350.0</data>
+  <data key="d1">0.35</data>
+</edge>
+<edge source="195522.BD01_0171" target="195522.BD01_2186">
+  <data key="d0">242.0</data>
+  <data key="d1">0.242</data>
+</edge>
+<edge source="195522.BD01_0171" target="195522.BD01_0617">
+  <data key="d0">319.0</data>
+  <data key="d1">0.319</data>
+</edge>
+<edge source="195522.BD01_0171" target="195522.BD01_0193">
+  <data key="d0">350.0</data>
+  <data key="d1">0.35</data>
+</edge>
+<edge source="195522.BD01_0171" target="195522.BD01_0245">
+  <data key="d0">220.0</data>
+  <data key="d1">0.22</data>
+</edge>
+<edge source="195522.BD01_0171" target="195522.BD01_0300">
+  <data key="d0">209.0</data>
+  <data key="d1">0.209</data>
+</edge>
+<edge source="195522.BD01_0171" target="195522.BD01_0352">
+  <data key="d0">352.0</data>
+  <data key="d1">0.352</data>
+</edge>
+<edge source="195522.BD01_0171" target="195522.BD01_0474">
+  <data key="d0">242.0</data>
+  <data key="d1">0.242</data>
+</edge>
+<edge source="195522.BD01_0171" target="195522.BD01_0477">
+  <data key="d0">350.0</data>
+  <data key="d1">0.35</data>
+</edge>
+<edge source="195522.BD01_0171" target="195522.BD01_0501">
+  <data key="d0">370.0</data>
+  <data key="d1">0.37</data>
+</edge>
+<edge source="195522.BD01_0171" target="195522.BD01_0829">
+  <data key="d0">202.0</data>
+  <data key="d1">0.202</data>
+</edge>
+<edge source="195522.BD01_0171" target="195522.BD01_0932">
+  <data key="d0">350.0</data>
+  <data key="d1">0.35</data>
+</edge>
+<edge source="195522.BD01_0171" target="195522.BD01_2152">
+  <data key="d0">350.0</data>
+  <data key="d1">0.35</data>
+</edge>
+<edge source="195522.BD01_0171" target="195522.BD01_2154">
+  <data key="d0">350.0</data>
+  <data key="d1">0.35</data>
+</edge>
+<edge source="195522.BD01_0171" target="195522.BD01_0615">
+  <data key="d0">209.0</data>
+  <data key="d1">0.209</data>
+</edge>
+<edge source="195522.BD01_0171" target="195522.BD01_0616">
+  <data key="d0">242.0</data>
+  <data key="d1">0.242</data>
+</edge>
+<edge source="195522.BD01_0171" target="195522.BD01_0740">
+  <data key="d0">209.0</data>
+  <data key="d1">0.209</data>
+</edge>
+<edge source="195522.BD01_0171" target="195522.BD01_0768">
+  <data key="d0">352.0</data>
+  <data key="d1">0.352</data>
+</edge>
+<edge source="195522.BD01_0171" target="195522.BD01_0847">
+  <data key="d0">209.0</data>
+  <data key="d1">0.209</data>
+</edge>
+<edge source="195522.BD01_0171" target="195522.BD01_0849">
+  <data key="d0">220.0</data>
+  <data key="d1">0.22</data>
+</edge>
+<edge source="195522.BD01_0171" target="195522.BD01_0854">
+  <data key="d0">242.0</data>
+  <data key="d1">0.242</data>
+</edge>
+<edge source="195522.BD01_0171" target="195522.BD01_1368">
+  <data key="d0">811.0</data>
+  <data key="d1">0.811</data>
+</edge>
+<edge source="195522.BD01_0171" target="195522.BD01_0952">
+  <data key="d0">401.0</data>
+  <data key="d1">0.401</data>
+</edge>
+<edge source="195522.BD01_0171" target="195522.BD01_1508">
+  <data key="d0">242.0</data>
+  <data key="d1">0.242</data>
+</edge>
+<edge source="195522.BD01_0171" target="195522.BD01_1644">
+  <data key="d0">202.0</data>
+  <data key="d1">0.202</data>
+</edge>
+<edge source="195522.BD01_0171" target="195522.BD01_1733">
+  <data key="d0">370.0</data>
+  <data key="d1">0.37</data>
+</edge>
+<edge source="195522.BD01_0171" target="195522.BD01_2053">
+  <data key="d0">190.0</data>
+  <data key="d1">0.19</data>
+</edge>
+<edge source="195522.BD01_0171" target="195522.BD01_2148">
+  <data key="d0">190.0</data>
+  <data key="d1">0.19</data>
+</edge>
+<edge source="195522.BD01_0171" target="195522.BD01_2150">
+  <data key="d0">220.0</data>
+  <data key="d1">0.22</data>
+</edge>
+<edge source="195522.BD01_0171" target="195522.BD01_2153">
+  <data key="d0">188.0</data>
+  <data key="d1">0.188</data>
+</edge>
+<edge source="195522.BD01_0171" target="195522.BD01_2155">
+  <data key="d0">220.0</data>
+  <data key="d1">0.22</data>
+</edge>
+<edge source="195522.BD01_0171" target="195522.BD01_2158">
+  <data key="d0">242.0</data>
+  <data key="d1">0.242</data>
+</edge>
+<edge source="195522.BD01_0171" target="195522.BD01_2159">
+  <data key="d0">220.0</data>
+  <data key="d1">0.22</data>
+</edge>
+<edge source="195522.BD01_0171" target="195522.BD01_2160">
+  <data key="d0">180.0</data>
+  <data key="d1">0.18</data>
+</edge>
+<edge source="195522.BD01_0171" target="195522.BD01_2161">
+  <data key="d0">236.0</data>
+  <data key="d1">0.236</data>
+</edge>
+<edge source="195522.BD01_0171" target="195522.BD01_2162">
+  <data key="d0">209.0</data>
+  <data key="d1">0.209</data>
+</edge>
+<edge source="195522.BD01_0171" target="195522.BD01_2163">
+  <data key="d0">242.0</data>
+  <data key="d1">0.242</data>
+</edge>
+<edge source="195522.BD01_0171" target="195522.BD01_2164">
+  <data key="d0">242.0</data>
+  <data key="d1">0.242</data>
+</edge>
+<edge source="195522.BD01_0171" target="195522.BD01_2165">
+  <data key="d0">190.0</data>
+  <data key="d1">0.19</data>
+</edge>
+<edge source="195522.BD01_0171" target="195522.BD01_2166">
+  <data key="d0">220.0</data>
+  <data key="d1">0.22</data>
+</edge>
+<edge source="195522.BD01_0171" target="195522.BD01_2167">
+  <data key="d0">220.0</data>
+  <data key="d1">0.22</data>
+</edge>
+<edge source="195522.BD01_0171" target="195522.BD01_2168">
+  <data key="d0">220.0</data>
+  <data key="d1">0.22</data>
+</edge>
+<edge source="195522.BD01_0171" target="195522.BD01_2170">
+  <data key="d0">188.0</data>
+  <data key="d1">0.188</data>
+</edge>
+<edge source="195522.BD01_0171" target="195522.BD01_2171">
+  <data key="d0">201.0</data>
+  <data key="d1">0.201</data>
+</edge>
+<edge source="195522.BD01_0171" target="195522.BD01_2175">
+  <data key="d0">209.0</data>
+  <data key="d1">0.209</data>
+</edge>
+<edge source="195522.BD01_0171" target="195522.BD01_2177">
+  <data key="d0">155.0</data>
+  <data key="d1">0.155</data>
+</edge>
+<edge source="195522.BD01_0171" target="195522.BD01_2185">
+  <data key="d0">242.0</data>
+  <data key="d1">0.242</data>
+</edge>
+<edge source="195522.BD01_0171" target="195522.BD01_2190">
+  <data key="d0">220.0</data>
+  <data key="d1">0.22</data>
+</edge>
+<edge source="195522.BD01_0171" target="195522.BD01_2191">
+  <data key="d0">226.0</data>
+  <data key="d1">0.226</data>
+</edge>
+<edge source="195522.BD01_0171" target="195522.BD01_2192">
+  <data key="d0">226.0</data>
+  <data key="d1">0.226</data>
+</edge>
+<edge source="195522.BD01_0171" target="195522.BD01_2197">
+  <data key="d0">242.0</data>
+  <data key="d1">0.242</data>
+</edge>
+<edge source="195522.BD01_0171" target="195522.BD01_2244">
+  <data key="d0">209.0</data>
+  <data key="d1">0.209</data>
+</edge>
+<edge source="195522.BD01_2033" target="195522.BD01_0044">
+  <data key="d0">173.0</data>
+  <data key="d1">0.173</data>
+</edge>
+<edge source="195522.BD01_2033" target="195522.BD01_0045">
+  <data key="d0">183.0</data>
+  <data key="d1">0.183</data>
+</edge>
+<edge source="195522.BD01_2033" target="195522.BD01_2199">
+  <data key="d0">202.0</data>
+  <data key="d1">0.202</data>
+</edge>
+<edge source="195522.BD01_2033" target="195522.BD01_0173">
+  <data key="d0">181.0</data>
+  <data key="d1">0.181</data>
+</edge>
+<edge source="195522.BD01_2033" target="195522.BD01_2187">
+  <data key="d0">238.0</data>
+  <data key="d1">0.238</data>
+</edge>
+<edge source="195522.BD01_2033" target="195522.BD01_2151">
+  <data key="d0">173.0</data>
+  <data key="d1">0.173</data>
+</edge>
+<edge source="195522.BD01_2033" target="195522.BD01_0190">
+  <data key="d0">237.0</data>
+  <data key="d1">0.237</data>
+</edge>
+<edge source="195522.BD01_2033" target="195522.BD01_0192">
+  <data key="d0">238.0</data>
+  <data key="d1">0.238</data>
+</edge>
+<edge source="195522.BD01_2033" target="195522.BD01_2034">
+  <data key="d0">238.0</data>
+  <data key="d1">0.238</data>
+</edge>
+<edge source="195522.BD01_2033" target="195522.BD01_2169">
+  <data key="d0">347.0</data>
+  <data key="d1">0.347</data>
+</edge>
+<edge source="195522.BD01_2033" target="195522.BD01_2186">
+  <data key="d0">238.0</data>
+  <data key="d1">0.238</data>
+</edge>
+<edge source="195522.BD01_2033" target="195522.BD01_0617">
+  <data key="d0">315.0</data>
+  <data key="d1">0.315</data>
+</edge>
+<edge source="195522.BD01_2033" target="195522.BD01_0193">
+  <data key="d0">347.0</data>
+  <data key="d1">0.347</data>
+</edge>
+<edge source="195522.BD01_2033" target="195522.BD01_0245">
+  <data key="d0">201.0</data>
+  <data key="d1">0.201</data>
+</edge>
+<edge source="195522.BD01_2033" target="195522.BD01_0300">
+  <data key="d0">190.0</data>
+  <data key="d1">0.19</data>
+</edge>
+<edge source="195522.BD01_2033" target="195522.BD01_0352">
+  <data key="d0">350.0</data>
+  <data key="d1">0.35</data>
+</edge>
+<edge source="195522.BD01_2033" target="195522.BD01_0474">
+  <data key="d0">238.0</data>
+  <data key="d1">0.238</data>
+</edge>
+<edge source="195522.BD01_2033" target="195522.BD01_0477">
+  <data key="d0">347.0</data>
+  <data key="d1">0.347</data>
+</edge>
+<edge source="195522.BD01_2033" target="195522.BD01_0501">
+  <data key="d0">352.0</data>
+  <data key="d1">0.352</data>
+</edge>
+<edge source="195522.BD01_2033" target="195522.BD01_0829">
+  <data key="d0">189.0</data>
+  <data key="d1">0.189</data>
+</edge>
+<edge source="195522.BD01_2033" target="195522.BD01_0932">
+  <data key="d0">347.0</data>
+  <data key="d1">0.347</data>
+</edge>
+<edge source="195522.BD01_2033" target="195522.BD01_2152">
+  <data key="d0">347.0</data>
+  <data key="d1">0.347</data>
+</edge>
+<edge source="195522.BD01_2033" target="195522.BD01_2154">
+  <data key="d0">347.0</data>
+  <data key="d1">0.347</data>
+</edge>
+<edge source="195522.BD01_2033" target="195522.BD01_0615">
+  <data key="d0">190.0</data>
+  <data key="d1">0.19</data>
+</edge>
+<edge source="195522.BD01_2033" target="195522.BD01_0616">
+  <data key="d0">238.0</data>
+  <data key="d1">0.238</data>
+</edge>
+<edge source="195522.BD01_2033" target="195522.BD01_0740">
+  <data key="d0">190.0</data>
+  <data key="d1">0.19</data>
+</edge>
+<edge source="195522.BD01_2033" target="195522.BD01_0768">
+  <data key="d0">350.0</data>
+  <data key="d1">0.35</data>
+</edge>
+<edge source="195522.BD01_2033" target="195522.BD01_0847">
+  <data key="d0">190.0</data>
+  <data key="d1">0.19</data>
+</edge>
+<edge source="195522.BD01_2033" target="195522.BD01_0849">
+  <data key="d0">201.0</data>
+  <data key="d1">0.201</data>
+</edge>
+<edge source="195522.BD01_2033" target="195522.BD01_0854">
+  <data key="d0">238.0</data>
+  <data key="d1">0.238</data>
+</edge>
+<edge source="195522.BD01_2033" target="195522.BD01_1368">
+  <data key="d0">445.0</data>
+  <data key="d1">0.445</data>
+</edge>
+<edge source="195522.BD01_2033" target="195522.BD01_1508">
+  <data key="d0">238.0</data>
+  <data key="d1">0.238</data>
+</edge>
+<edge source="195522.BD01_2033" target="195522.BD01_1644">
+  <data key="d0">202.0</data>
+  <data key="d1">0.202</data>
+</edge>
+<edge source="195522.BD01_2033" target="195522.BD01_1733">
+  <data key="d0">352.0</data>
+  <data key="d1">0.352</data>
+</edge>
+<edge source="195522.BD01_2033" target="195522.BD01_2053">
+  <data key="d0">173.0</data>
+  <data key="d1">0.173</data>
+</edge>
+<edge source="195522.BD01_2033" target="195522.BD01_2148">
+  <data key="d0">173.0</data>
+  <data key="d1">0.173</data>
+</edge>
+<edge source="195522.BD01_2033" target="195522.BD01_2150">
+  <data key="d0">201.0</data>
+  <data key="d1">0.201</data>
+</edge>
+<edge source="195522.BD01_2033" target="195522.BD01_2153">
+  <data key="d0">169.0</data>
+  <data key="d1">0.169</data>
+</edge>
+<edge source="195522.BD01_2033" target="195522.BD01_2155">
+  <data key="d0">201.0</data>
+  <data key="d1">0.201</data>
+</edge>
+<edge source="195522.BD01_2033" target="195522.BD01_2158">
+  <data key="d0">238.0</data>
+  <data key="d1">0.238</data>
+</edge>
+<edge source="195522.BD01_2033" target="195522.BD01_2159">
+  <data key="d0">201.0</data>
+  <data key="d1">0.201</data>
+</edge>
+<edge source="195522.BD01_2033" target="195522.BD01_2160">
+  <data key="d0">162.0</data>
+  <data key="d1">0.162</data>
+</edge>
+<edge source="195522.BD01_2033" target="195522.BD01_2161">
+  <data key="d0">224.0</data>
+  <data key="d1">0.224</data>
+</edge>
+<edge source="195522.BD01_2033" target="195522.BD01_2162">
+  <data key="d0">190.0</data>
+  <data key="d1">0.19</data>
+</edge>
+<edge source="195522.BD01_2033" target="195522.BD01_2163">
+  <data key="d0">238.0</data>
+  <data key="d1">0.238</data>
+</edge>
+<edge source="195522.BD01_2033" target="195522.BD01_2164">
+  <data key="d0">238.0</data>
+  <data key="d1">0.238</data>
+</edge>
+<edge source="195522.BD01_2033" target="195522.BD01_2165">
+  <data key="d0">171.0</data>
+  <data key="d1">0.171</data>
+</edge>
+<edge source="195522.BD01_2033" target="195522.BD01_2166">
+  <data key="d0">201.0</data>
+  <data key="d1">0.201</data>
+</edge>
+<edge source="195522.BD01_2033" target="195522.BD01_2167">
+  <data key="d0">201.0</data>
+  <data key="d1">0.201</data>
+</edge>
+<edge source="195522.BD01_2033" target="195522.BD01_2168">
+  <data key="d0">201.0</data>
+  <data key="d1">0.201</data>
+</edge>
+<edge source="195522.BD01_2033" target="195522.BD01_2170">
+  <data key="d0">169.0</data>
+  <data key="d1">0.169</data>
+</edge>
+<edge source="195522.BD01_2033" target="195522.BD01_2171">
+  <data key="d0">183.0</data>
+  <data key="d1">0.183</data>
+</edge>
+<edge source="195522.BD01_2033" target="195522.BD01_2175">
+  <data key="d0">190.0</data>
+  <data key="d1">0.19</data>
+</edge>
+<edge source="195522.BD01_2033" target="195522.BD01_2185">
+  <data key="d0">238.0</data>
+  <data key="d1">0.238</data>
+</edge>
+<edge source="195522.BD01_2033" target="195522.BD01_2190">
+  <data key="d0">201.0</data>
+  <data key="d1">0.201</data>
+</edge>
+<edge source="195522.BD01_2033" target="195522.BD01_2191">
+  <data key="d0">214.0</data>
+  <data key="d1">0.214</data>
+</edge>
+<edge source="195522.BD01_2033" target="195522.BD01_2192">
+  <data key="d0">222.0</data>
+  <data key="d1">0.222</data>
+</edge>
+<edge source="195522.BD01_2033" target="195522.BD01_2197">
+  <data key="d0">238.0</data>
+  <data key="d1">0.238</data>
+</edge>
+<edge source="195522.BD01_2033" target="195522.BD01_2244">
+  <data key="d0">190.0</data>
+  <data key="d1">0.19</data>
+</edge>
+<edge source="195522.BD01_0045" target="195522.BD01_2188">
+  <data key="d0">151.0</data>
+  <data key="d1">0.151</data>
+</edge>
+<edge source="195522.BD01_0073" target="195522.BD01_0818">
+  <data key="d0">173.0</data>
+  <data key="d1">0.173</data>
+</edge>
+<edge source="195522.BD01_0073" target="195522.BD01_2183">
+  <data key="d0">164.0</data>
+  <data key="d1">0.164</data>
+</edge>
+<edge source="195522.BD01_0073" target="195522.BD01_1932">
+  <data key="d0">173.0</data>
+  <data key="d1">0.173</data>
+</edge>
+<edge source="195522.BD01_0073" target="195522.BD01_1919">
+  <data key="d0">173.0</data>
+  <data key="d1">0.173</data>
+</edge>
+<edge source="195522.BD01_0073" target="195522.BD01_1828">
+  <data key="d0">173.0</data>
+  <data key="d1">0.173</data>
+</edge>
+<edge source="195522.BD01_0073" target="195522.BD01_1405">
+  <data key="d0">279.0</data>
+  <data key="d1">0.279</data>
+</edge>
+<edge source="195522.BD01_0073" target="195522.BD01_1378">
+  <data key="d0">279.0</data>
+  <data key="d1">0.279</data>
+</edge>
+<edge source="195522.BD01_0073" target="195522.BD01_1302">
+  <data key="d0">207.0</data>
+  <data key="d1">0.207</data>
+</edge>
+<edge source="195522.BD01_0073" target="195522.BD01_1291">
+  <data key="d0">173.0</data>
+  <data key="d1">0.173</data>
+</edge>
+<edge source="195522.BD01_0073" target="195522.BD01_0146">
+  <data key="d0">173.0</data>
+  <data key="d1">0.173</data>
+</edge>
+<edge source="195522.BD01_0073" target="195522.BD01_0253">
+  <data key="d0">173.0</data>
+  <data key="d1">0.173</data>
+</edge>
+<edge source="195522.BD01_0073" target="195522.BD01_0345">
+  <data key="d0">173.0</data>
+  <data key="d1">0.173</data>
+</edge>
+<edge source="195522.BD01_0073" target="195522.BD01_0375">
+  <data key="d0">173.0</data>
+  <data key="d1">0.173</data>
+</edge>
+<edge source="195522.BD01_0073" target="195522.BD01_0692">
+  <data key="d0">279.0</data>
+  <data key="d1">0.279</data>
+</edge>
+<edge source="195522.BD01_0073" target="195522.BD01_0722">
+  <data key="d0">172.0</data>
+  <data key="d1">0.172</data>
+</edge>
+<edge source="195522.BD01_0073" target="195522.BD01_0724">
+  <data key="d0">172.0</data>
+  <data key="d1">0.172</data>
+</edge>
+<edge source="195522.BD01_0073" target="195522.BD01_0746">
+  <data key="d0">164.0</data>
+  <data key="d1">0.164</data>
+</edge>
+<edge source="195522.BD01_0073" target="195522.BD01_0862">
+  <data key="d0">207.0</data>
+  <data key="d1">0.207</data>
+</edge>
+<edge source="195522.BD01_0073" target="195522.BD01_2202">
+  <data key="d0">207.0</data>
+  <data key="d1">0.207</data>
+</edge>
+<edge source="195522.BD01_0073" target="195522.BD01_2199">
+  <data key="d0">482.0</data>
+  <data key="d1">0.482</data>
+</edge>
+<edge source="195522.BD01_0818" target="195522.BD01_2199">
+  <data key="d0">252.0</data>
+  <data key="d1">0.252</data>
+</edge>
+<edge source="195522.BD01_0818" target="195522.BD01_1279">
+  <data key="d0">186.0</data>
+  <data key="d1">0.186</data>
+</edge>
+<edge source="195522.BD01_1932" target="195522.BD01_2199">
+  <data key="d0">252.0</data>
+  <data key="d1">0.252</data>
+</edge>
+<edge source="195522.BD01_1932" target="195522.BD01_1279">
+  <data key="d0">186.0</data>
+  <data key="d1">0.186</data>
+</edge>
+<edge source="195522.BD01_1919" target="195522.BD01_2199">
+  <data key="d0">252.0</data>
+  <data key="d1">0.252</data>
+</edge>
+<edge source="195522.BD01_1919" target="195522.BD01_1279">
+  <data key="d0">186.0</data>
+  <data key="d1">0.186</data>
+</edge>
+<edge source="195522.BD01_1828" target="195522.BD01_2199">
+  <data key="d0">252.0</data>
+  <data key="d1">0.252</data>
+</edge>
+<edge source="195522.BD01_1828" target="195522.BD01_1279">
+  <data key="d0">186.0</data>
+  <data key="d1">0.186</data>
+</edge>
+<edge source="195522.BD01_1405" target="195522.BD01_2199">
+  <data key="d0">349.0</data>
+  <data key="d1">0.349</data>
+</edge>
+<edge source="195522.BD01_1405" target="195522.BD01_0467">
+  <data key="d0">222.0</data>
+  <data key="d1">0.222</data>
+</edge>
+<edge source="195522.BD01_1405" target="195522.BD01_1083">
+  <data key="d0">222.0</data>
+  <data key="d1">0.222</data>
+</edge>
+<edge source="195522.BD01_1405" target="195522.BD01_1235">
+  <data key="d0">190.0</data>
+  <data key="d1">0.19</data>
+</edge>
+<edge source="195522.BD01_1405" target="195522.BD01_1279">
+  <data key="d0">289.0</data>
+  <data key="d1">0.289</data>
+</edge>
+<edge source="195522.BD01_1405" target="195522.BD01_2098">
+  <data key="d0">190.0</data>
+  <data key="d1">0.19</data>
+</edge>
+<edge source="195522.BD01_1405" target="195522.BD01_2265">
+  <data key="d0">190.0</data>
+  <data key="d1">0.19</data>
+</edge>
+<edge source="195522.BD01_1378" target="195522.BD01_2199">
+  <data key="d0">349.0</data>
+  <data key="d1">0.349</data>
+</edge>
+<edge source="195522.BD01_1378" target="195522.BD01_0467">
+  <data key="d0">222.0</data>
+  <data key="d1">0.222</data>
+</edge>
+<edge source="195522.BD01_1378" target="195522.BD01_1083">
+  <data key="d0">222.0</data>
+  <data key="d1">0.222</data>
+</edge>
+<edge source="195522.BD01_1378" target="195522.BD01_1235">
+  <data key="d0">190.0</data>
+  <data key="d1">0.19</data>
+</edge>
+<edge source="195522.BD01_1378" target="195522.BD01_1279">
+  <data key="d0">289.0</data>
+  <data key="d1">0.289</data>
+</edge>
+<edge source="195522.BD01_1378" target="195522.BD01_2098">
+  <data key="d0">190.0</data>
+  <data key="d1">0.19</data>
+</edge>
+<edge source="195522.BD01_1378" target="195522.BD01_2265">
+  <data key="d0">190.0</data>
+  <data key="d1">0.19</data>
+</edge>
+<edge source="195522.BD01_1302" target="195522.BD01_0724">
+  <data key="d0">312.0</data>
+  <data key="d1">0.312</data>
+</edge>
+<edge source="195522.BD01_1302" target="195522.BD01_0814">
+  <data key="d0">225.0</data>
+  <data key="d1">0.225</data>
+</edge>
+<edge source="195522.BD01_1302" target="195522.BD01_1607">
+  <data key="d0">225.0</data>
+  <data key="d1">0.225</data>
+</edge>
+<edge source="195522.BD01_1302" target="195522.BD01_0722">
+  <data key="d0">312.0</data>
+  <data key="d1">0.312</data>
+</edge>
+<edge source="195522.BD01_1302" target="195522.BD01_0467">
+  <data key="d0">156.0</data>
+  <data key="d1">0.156</data>
+</edge>
+<edge source="195522.BD01_1302" target="195522.BD01_0542">
+  <data key="d0">163.0</data>
+  <data key="d1">0.163</data>
+</edge>
+<edge source="195522.BD01_1302" target="195522.BD01_1083">
+  <data key="d0">156.0</data>
+  <data key="d1">0.156</data>
+</edge>
+<edge source="195522.BD01_1302" target="195522.BD01_1279">
+  <data key="d0">223.0</data>
+  <data key="d1">0.223</data>
+</edge>
+<edge source="195522.BD01_1291" target="195522.BD01_2199">
+  <data key="d0">252.0</data>
+  <data key="d1">0.252</data>
+</edge>
+<edge source="195522.BD01_1291" target="195522.BD01_1279">
+  <data key="d0">186.0</data>
+  <data key="d1">0.186</data>
+</edge>
+<edge source="195522.BD01_0146" target="195522.BD01_2199">
+  <data key="d0">252.0</data>
+  <data key="d1">0.252</data>
+</edge>
+<edge source="195522.BD01_0146" target="195522.BD01_1279">
+  <data key="d0">186.0</data>
+  <data key="d1">0.186</data>
+</edge>
+<edge source="195522.BD01_0253" target="195522.BD01_2199">
+  <data key="d0">252.0</data>
+  <data key="d1">0.252</data>
+</edge>
+<edge source="195522.BD01_0253" target="195522.BD01_1279">
+  <data key="d0">186.0</data>
+  <data key="d1">0.186</data>
+</edge>
+<edge source="195522.BD01_0345" target="195522.BD01_2199">
+  <data key="d0">252.0</data>
+  <data key="d1">0.252</data>
+</edge>
+<edge source="195522.BD01_0345" target="195522.BD01_1279">
+  <data key="d0">186.0</data>
+  <data key="d1">0.186</data>
+</edge>
+<edge source="195522.BD01_0375" target="195522.BD01_2199">
+  <data key="d0">252.0</data>
+  <data key="d1">0.252</data>
+</edge>
+<edge source="195522.BD01_0375" target="195522.BD01_1279">
+  <data key="d0">186.0</data>
+  <data key="d1">0.186</data>
+</edge>
+<edge source="195522.BD01_0692" target="195522.BD01_2199">
+  <data key="d0">349.0</data>
+  <data key="d1">0.349</data>
+</edge>
+<edge source="195522.BD01_0692" target="195522.BD01_0467">
+  <data key="d0">222.0</data>
+  <data key="d1">0.222</data>
+</edge>
+<edge source="195522.BD01_0692" target="195522.BD01_1083">
+  <data key="d0">222.0</data>
+  <data key="d1">0.222</data>
+</edge>
+<edge source="195522.BD01_0692" target="195522.BD01_1235">
+  <data key="d0">190.0</data>
+  <data key="d1">0.19</data>
+</edge>
+<edge source="195522.BD01_0692" target="195522.BD01_1279">
+  <data key="d0">289.0</data>
+  <data key="d1">0.289</data>
+</edge>
+<edge source="195522.BD01_0692" target="195522.BD01_2098">
+  <data key="d0">190.0</data>
+  <data key="d1">0.19</data>
+</edge>
+<edge source="195522.BD01_0692" target="195522.BD01_2265">
+  <data key="d0">190.0</data>
+  <data key="d1">0.19</data>
+</edge>
+<edge source="195522.BD01_0722" target="195522.BD01_1926">
+  <data key="d0">174.0</data>
+  <data key="d1">0.174</data>
+</edge>
+<edge source="195522.BD01_0722" target="195522.BD01_0186">
+  <data key="d0">161.0</data>
+  <data key="d1">0.161</data>
+</edge>
+<edge source="195522.BD01_0722" target="195522.BD01_0282">
+  <data key="d0">53.0</data>
+  <data key="d1">0.053</data>
+</edge>
+<edge source="195522.BD01_0722" target="195522.BD01_0289">
+  <data key="d0">75.0</data>
+  <data key="d1">0.075</data>
+</edge>
+<edge source="195522.BD01_0722" target="195522.BD01_0382">
+  <data key="d0">63.0</data>
+  <data key="d1">0.063</data>
+</edge>
+<edge source="195522.BD01_0722" target="195522.BD01_0467">
+  <data key="d0">162.0</data>
+  <data key="d1">0.162</data>
+</edge>
+<edge source="195522.BD01_0722" target="195522.BD01_0604">
+  <data key="d0">189.0</data>
+  <data key="d1">0.189</data>
+</edge>
+<edge source="195522.BD01_0722" target="195522.BD01_0633">
+  <data key="d0">233.0</data>
+  <data key="d1">0.233</data>
+</edge>
+<edge source="195522.BD01_0722" target="195522.BD01_0634">
+  <data key="d0">168.0</data>
+  <data key="d1">0.168</data>
+</edge>
+<edge source="195522.BD01_0722" target="195522.BD01_0651">
+  <data key="d0">164.0</data>
+  <data key="d1">0.164</data>
+</edge>
+<edge source="195522.BD01_0722" target="195522.BD01_0725">
+  <data key="d0">504.0</data>
+  <data key="d1">0.504</data>
+</edge>
+<edge source="195522.BD01_0722" target="195522.BD01_0756">
+  <data key="d0">65.0</data>
+  <data key="d1">0.065</data>
+</edge>
+<edge source="195522.BD01_0722" target="195522.BD01_0814">
+  <data key="d0">471.0</data>
+  <data key="d1">0.471</data>
+</edge>
+<edge source="195522.BD01_0722" target="195522.BD01_0816">
+  <data key="d0">75.0</data>
+  <data key="d1">0.075</data>
+</edge>
+<edge source="195522.BD01_0722" target="195522.BD01_0862">
+  <data key="d0">379.0</data>
+  <data key="d1">0.379</data>
+</edge>
+<edge source="195522.BD01_0722" target="195522.BD01_0929">
+  <data key="d0">58.0</data>
+  <data key="d1">0.058</data>
+</edge>
+<edge source="195522.BD01_0722" target="195522.BD01_1014">
+  <data key="d0">76.0</data>
+  <data key="d1">0.076</data>
+</edge>
+<edge source="195522.BD01_0722" target="195522.BD01_1083">
+  <data key="d0">162.0</data>
+  <data key="d1">0.162</data>
+</edge>
+<edge source="195522.BD01_0722" target="195522.BD01_1104">
+  <data key="d0">544.0</data>
+  <data key="d1">0.544</data>
+</edge>
+<edge source="195522.BD01_0722" target="195522.BD01_1110">
+  <data key="d0">42.0</data>
+  <data key="d1">0.042</data>
+</edge>
+<edge source="195522.BD01_0722" target="195522.BD01_1254">
+  <data key="d0">162.0</data>
+  <data key="d1">0.162</data>
+</edge>
+<edge source="195522.BD01_0722" target="195522.BD01_1305">
+  <data key="d0">164.0</data>
+  <data key="d1">0.164</data>
+</edge>
+<edge source="195522.BD01_0722" target="195522.BD01_1326">
+  <data key="d0">75.0</data>
+  <data key="d1">0.075</data>
+</edge>
+<edge source="195522.BD01_0722" target="195522.BD01_1327">
+  <data key="d0">75.0</data>
+  <data key="d1">0.075</data>
+</edge>
+<edge source="195522.BD01_0722" target="195522.BD01_1328">
+  <data key="d0">75.0</data>
+  <data key="d1">0.075</data>
+</edge>
+<edge source="195522.BD01_0722" target="195522.BD01_1330">
+  <data key="d0">75.0</data>
+  <data key="d1">0.075</data>
+</edge>
+<edge source="195522.BD01_0722" target="195522.BD01_1332">
+  <data key="d0">75.0</data>
+  <data key="d1">0.075</data>
+</edge>
+<edge source="195522.BD01_0722" target="195522.BD01_1339">
+  <data key="d0">85.0</data>
+  <data key="d1">0.085</data>
+</edge>
+<edge source="195522.BD01_0722" target="195522.BD01_1416">
+  <data key="d0">65.0</data>
+  <data key="d1">0.065</data>
+</edge>
+<edge source="195522.BD01_0722" target="195522.BD01_1491">
+  <data key="d0">75.0</data>
+  <data key="d1">0.075</data>
+</edge>
+<edge source="195522.BD01_0722" target="195522.BD01_1492">
+  <data key="d0">75.0</data>
+  <data key="d1">0.075</data>
+</edge>
+<edge source="195522.BD01_0722" target="195522.BD01_1607">
+  <data key="d0">471.0</data>
+  <data key="d1">0.471</data>
+</edge>
+<edge source="195522.BD01_0722" target="195522.BD01_1714">
+  <data key="d0">178.0</data>
+  <data key="d1">0.178</data>
+</edge>
+<edge source="195522.BD01_0722" target="195522.BD01_1731">
+  <data key="d0">58.0</data>
+  <data key="d1">0.058</data>
+</edge>
+<edge source="195522.BD01_0722" target="195522.BD01_1821">
+  <data key="d0">162.0</data>
+  <data key="d1">0.162</data>
+</edge>
+<edge source="195522.BD01_0722" target="195522.BD01_1984">
+  <data key="d0">164.0</data>
+  <data key="d1">0.164</data>
+</edge>
+<edge source="195522.BD01_0722" target="195522.BD01_2003">
+  <data key="d0">164.0</data>
+  <data key="d1">0.164</data>
+</edge>
+<edge source="195522.BD01_0722" target="195522.BD01_2152">
+  <data key="d0">152.0</data>
+  <data key="d1">0.152</data>
+</edge>
+<edge source="195522.BD01_0722" target="195522.BD01_2172">
+  <data key="d0">160.0</data>
+  <data key="d1">0.16</data>
+</edge>
+<edge source="195522.BD01_0722" target="195522.BD01_2195">
+  <data key="d0">161.0</data>
+  <data key="d1">0.161</data>
+</edge>
+<edge source="195522.BD01_0722" target="195522.BD01_2199">
+  <data key="d0">373.0</data>
+  <data key="d1">0.373</data>
+</edge>
+<edge source="195522.BD01_0722" target="195522.BD01_2202">
+  <data key="d0">379.0</data>
+  <data key="d1">0.379</data>
+</edge>
+<edge source="195522.BD01_0722" target="195522.BD01_0642">
+  <data key="d0">160.0</data>
+  <data key="d1">0.16</data>
+</edge>
+<edge source="195522.BD01_0722" target="195522.BD01_0373">
+  <data key="d0">185.0</data>
+  <data key="d1">0.185</data>
+</edge>
+<edge source="195522.BD01_0722" target="195522.BD01_0614">
+  <data key="d0">198.0</data>
+  <data key="d1">0.198</data>
+</edge>
+<edge source="195522.BD01_0724" target="195522.BD01_0289">
+  <data key="d0">75.0</data>
+  <data key="d1">0.075</data>
+</edge>
+<edge source="195522.BD01_0724" target="195522.BD01_0382">
+  <data key="d0">63.0</data>
+  <data key="d1">0.063</data>
+</edge>
+<edge source="195522.BD01_0724" target="195522.BD01_0467">
+  <data key="d0">162.0</data>
+  <data key="d1">0.162</data>
+</edge>
+<edge source="195522.BD01_0724" target="195522.BD01_0604">
+  <data key="d0">189.0</data>
+  <data key="d1">0.189</data>
+</edge>
+<edge source="195522.BD01_0724" target="195522.BD01_0633">
+  <data key="d0">233.0</data>
+  <data key="d1">0.233</data>
+</edge>
+<edge source="195522.BD01_0724" target="195522.BD01_0634">
+  <data key="d0">168.0</data>
+  <data key="d1">0.168</data>
+</edge>
+<edge source="195522.BD01_0724" target="195522.BD01_0651">
+  <data key="d0">164.0</data>
+  <data key="d1">0.164</data>
+</edge>
+<edge source="195522.BD01_0724" target="195522.BD01_0725">
+  <data key="d0">504.0</data>
+  <data key="d1">0.504</data>
+</edge>
+<edge source="195522.BD01_0724" target="195522.BD01_0756">
+  <data key="d0">65.0</data>
+  <data key="d1">0.065</data>
+</edge>
+<edge source="195522.BD01_0724" target="195522.BD01_0814">
+  <data key="d0">471.0</data>
+  <data key="d1">0.471</data>
+</edge>
+<edge source="195522.BD01_0724" target="195522.BD01_0816">
+  <data key="d0">75.0</data>
+  <data key="d1">0.075</data>
+</edge>
+<edge source="195522.BD01_0724" target="195522.BD01_0862">
+  <data key="d0">379.0</data>
+  <data key="d1">0.379</data>
+</edge>
+<edge source="195522.BD01_0724" target="195522.BD01_0929">
+  <data key="d0">58.0</data>
+  <data key="d1">0.058</data>
+</edge>
+<edge source="195522.BD01_0724" target="195522.BD01_1014">
+  <data key="d0">76.0</data>
+  <data key="d1">0.076</data>
+</edge>
+<edge source="195522.BD01_0724" target="195522.BD01_1083">
+  <data key="d0">162.0</data>
+  <data key="d1">0.162</data>
+</edge>
+<edge source="195522.BD01_0724" target="195522.BD01_1104">
+  <data key="d0">544.0</data>
+  <data key="d1">0.544</data>
+</edge>
+<edge source="195522.BD01_0724" target="195522.BD01_1110">
+  <data key="d0">42.0</data>
+  <data key="d1">0.042</data>
+</edge>
+<edge source="195522.BD01_0724" target="195522.BD01_1254">
+  <data key="d0">162.0</data>
+  <data key="d1">0.162</data>
+</edge>
+<edge source="195522.BD01_0724" target="195522.BD01_1305">
+  <data key="d0">164.0</data>
+  <data key="d1">0.164</data>
+</edge>
+<edge source="195522.BD01_0724" target="195522.BD01_1326">
+  <data key="d0">75.0</data>
+  <data key="d1">0.075</data>
+</edge>
+<edge source="195522.BD01_0724" target="195522.BD01_1327">
+  <data key="d0">75.0</data>
+  <data key="d1">0.075</data>
+</edge>
+<edge source="195522.BD01_0724" target="195522.BD01_1328">
+  <data key="d0">75.0</data>
+  <data key="d1">0.075</data>
+</edge>
+<edge source="195522.BD01_0724" target="195522.BD01_1330">
+  <data key="d0">75.0</data>
+  <data key="d1">0.075</data>
+</edge>
+<edge source="195522.BD01_0724" target="195522.BD01_1332">
+  <data key="d0">75.0</data>
+  <data key="d1">0.075</data>
+</edge>
+<edge source="195522.BD01_0724" target="195522.BD01_1339">
+  <data key="d0">85.0</data>
+  <data key="d1">0.085</data>
+</edge>
+<edge source="195522.BD01_0724" target="195522.BD01_1416">
+  <data key="d0">65.0</data>
+  <data key="d1">0.065</data>
+</edge>
+<edge source="195522.BD01_0724" target="195522.BD01_1491">
+  <data key="d0">75.0</data>
+  <data key="d1">0.075</data>
+</edge>
+<edge source="195522.BD01_0724" target="195522.BD01_1492">
+  <data key="d0">75.0</data>
+  <data key="d1">0.075</data>
+</edge>
+<edge source="195522.BD01_0724" target="195522.BD01_1607">
+  <data key="d0">471.0</data>
+  <data key="d1">0.471</data>
+</edge>
+<edge source="195522.BD01_0724" target="195522.BD01_1714">
+  <data key="d0">178.0</data>
+  <data key="d1">0.178</data>
+</edge>
+<edge source="195522.BD01_0724" target="195522.BD01_1731">
+  <data key="d0">58.0</data>
+  <data key="d1">0.058</data>
+</edge>
+<edge source="195522.BD01_0724" target="195522.BD01_1821">
+  <data key="d0">162.0</data>
+  <data key="d1">0.162</data>
+</edge>
+<edge source="195522.BD01_0724" target="195522.BD01_1926">
+  <data key="d0">174.0</data>
+  <data key="d1">0.174</data>
+</edge>
+<edge source="195522.BD01_0724" target="195522.BD01_1984">
+  <data key="d0">164.0</data>
+  <data key="d1">0.164</data>
+</edge>
+<edge source="195522.BD01_0724" target="195522.BD01_2003">
+  <data key="d0">164.0</data>
+  <data key="d1">0.164</data>
+</edge>
+<edge source="195522.BD01_0724" target="195522.BD01_2152">
+  <data key="d0">152.0</data>
+  <data key="d1">0.152</data>
+</edge>
+<edge source="195522.BD01_0724" target="195522.BD01_0186">
+  <data key="d0">161.0</data>
+  <data key="d1">0.161</data>
+</edge>
+<edge source="195522.BD01_0724" target="195522.BD01_2195">
+  <data key="d0">161.0</data>
+  <data key="d1">0.161</data>
+</edge>
+<edge source="195522.BD01_0724" target="195522.BD01_2199">
+  <data key="d0">373.0</data>
+  <data key="d1">0.373</data>
+</edge>
+<edge source="195522.BD01_0724" target="195522.BD01_2202">
+  <data key="d0">379.0</data>
+  <data key="d1">0.379</data>
+</edge>
+<edge source="195522.BD01_0724" target="195522.BD01_2172">
+  <data key="d0">160.0</data>
+  <data key="d1">0.16</data>
+</edge>
+<edge source="195522.BD01_0724" target="195522.BD01_0282">
+  <data key="d0">53.0</data>
+  <data key="d1">0.053</data>
+</edge>
+<edge source="195522.BD01_0724" target="195522.BD01_0642">
+  <data key="d0">160.0</data>
+  <data key="d1">0.16</data>
+</edge>
+<edge source="195522.BD01_0724" target="195522.BD01_0373">
+  <data key="d0">185.0</data>
+  <data key="d1">0.185</data>
+</edge>
+<edge source="195522.BD01_0724" target="195522.BD01_0614">
+  <data key="d0">198.0</data>
+  <data key="d1">0.198</data>
+</edge>
+<edge source="195522.BD01_0862" target="195522.BD01_1607">
+  <data key="d0">225.0</data>
+  <data key="d1">0.225</data>
+</edge>
+<edge source="195522.BD01_0862" target="195522.BD01_0814">
+  <data key="d0">225.0</data>
+  <data key="d1">0.225</data>
+</edge>
+<edge source="195522.BD01_0862" target="195522.BD01_0467">
+  <data key="d0">156.0</data>
+  <data key="d1">0.156</data>
+</edge>
+<edge source="195522.BD01_0862" target="195522.BD01_0542">
+  <data key="d0">163.0</data>
+  <data key="d1">0.163</data>
+</edge>
+<edge source="195522.BD01_0862" target="195522.BD01_1083">
+  <data key="d0">156.0</data>
+  <data key="d1">0.156</data>
+</edge>
+<edge source="195522.BD01_0862" target="195522.BD01_1279">
+  <data key="d0">223.0</data>
+  <data key="d1">0.223</data>
+</edge>
+<edge source="195522.BD01_2202" target="195522.BD01_0814">
+  <data key="d0">225.0</data>
+  <data key="d1">0.225</data>
+</edge>
+<edge source="195522.BD01_2202" target="195522.BD01_1607">
+  <data key="d0">225.0</data>
+  <data key="d1">0.225</data>
+</edge>
+<edge source="195522.BD01_2202" target="195522.BD01_0467">
+  <data key="d0">156.0</data>
+  <data key="d1">0.156</data>
+</edge>
+<edge source="195522.BD01_2202" target="195522.BD01_0542">
+  <data key="d0">163.0</data>
+  <data key="d1">0.163</data>
+</edge>
+<edge source="195522.BD01_2202" target="195522.BD01_1083">
+  <data key="d0">156.0</data>
+  <data key="d1">0.156</data>
+</edge>
+<edge source="195522.BD01_2202" target="195522.BD01_1279">
+  <data key="d0">223.0</data>
+  <data key="d1">0.223</data>
+</edge>
+<edge source="195522.BD01_2199" target="195522.BD01_1245">
+  <data key="d0">261.0</data>
+  <data key="d1">0.261</data>
+</edge>
+<edge source="195522.BD01_2199" target="195522.BD01_1825">
+  <data key="d0">307.0</data>
+  <data key="d1">0.307</data>
+</edge>
+<edge source="195522.BD01_2199" target="195522.BD01_2046">
+  <data key="d0">307.0</data>
+  <data key="d1">0.307</data>
+</edge>
+<edge source="195522.BD01_2199" target="195522.BD01_0604">
+  <data key="d0">343.0</data>
+  <data key="d1">0.343</data>
+</edge>
+<edge source="195522.BD01_2199" target="195522.BD01_1244">
+  <data key="d0">261.0</data>
+  <data key="d1">0.261</data>
+</edge>
+<edge source="195522.BD01_2199" target="195522.BD01_2130">
+  <data key="d0">295.0</data>
+  <data key="d1">0.295</data>
+</edge>
+<edge source="195522.BD01_2199" target="195522.BD01_2151">
+  <data key="d0">391.0</data>
+  <data key="d1">0.391</data>
+</edge>
+<edge source="195522.BD01_2199" target="195522.BD01_0467">
+  <data key="d0">457.0</data>
+  <data key="d1">0.457</data>
+</edge>
+<edge source="195522.BD01_2199" target="195522.BD01_0474">
+  <data key="d0">323.0</data>
+  <data key="d1">0.323</data>
+</edge>
+<edge source="195522.BD01_2199" target="195522.BD01_1570">
+  <data key="d0">372.0</data>
+  <data key="d1">0.372</data>
+</edge>
+<edge source="195522.BD01_2199" target="195522.BD01_0725">
+  <data key="d0">272.0</data>
+  <data key="d1">0.272</data>
+</edge>
+<edge source="195522.BD01_2199" target="195522.BD01_1083">
+  <data key="d0">457.0</data>
+  <data key="d1">0.457</data>
+</edge>
+<edge source="195522.BD01_2199" target="195522.BD01_0723">
+  <data key="d0">317.0</data>
+  <data key="d1">0.317</data>
+</edge>
+<edge source="195522.BD01_2199" target="195522.BD01_0823">
+  <data key="d0">317.0</data>
+  <data key="d1">0.317</data>
+</edge>
+<edge source="195522.BD01_2199" target="195522.BD01_0827">
+  <data key="d0">317.0</data>
+  <data key="d1">0.317</data>
+</edge>
+<edge source="195522.BD01_2199" target="195522.BD01_1078">
+  <data key="d0">317.0</data>
+  <data key="d1">0.317</data>
+</edge>
+<edge source="195522.BD01_2199" target="195522.BD01_1235">
+  <data key="d0">309.0</data>
+  <data key="d1">0.309</data>
+</edge>
+<edge source="195522.BD01_2199" target="195522.BD01_1279">
+  <data key="d0">431.0</data>
+  <data key="d1">0.431</data>
+</edge>
+<edge source="195522.BD01_2199" target="195522.BD01_1721">
+  <data key="d0">317.0</data>
+  <data key="d1">0.317</data>
+</edge>
+<edge source="195522.BD01_2199" target="195522.BD01_2098">
+  <data key="d0">309.0</data>
+  <data key="d1">0.309</data>
+</edge>
+<edge source="195522.BD01_2199" target="195522.BD01_2265">
+  <data key="d0">309.0</data>
+  <data key="d1">0.309</data>
+</edge>
+<edge source="195522.BD01_0082" target="195522.BD01_1607">
+  <data key="d0">366.0</data>
+  <data key="d1">0.366</data>
+</edge>
+<edge source="195522.BD01_0082" target="195522.BD01_0814">
+  <data key="d0">366.0</data>
+  <data key="d1">0.366</data>
+</edge>
+<edge source="195522.BD01_1607" target="195522.BD01_0350">
+  <data key="d0">245.0</data>
+  <data key="d1">0.245</data>
+</edge>
+<edge source="195522.BD01_1607" target="195522.BD01_0893">
+  <data key="d0">245.0</data>
+  <data key="d1">0.245</data>
+</edge>
+<edge source="195522.BD01_1607" target="195522.BD01_0987">
+  <data key="d0">245.0</data>
+  <data key="d1">0.245</data>
+</edge>
+<edge source="195522.BD01_1607" target="195522.BD01_1104">
+  <data key="d0">175.0</data>
+  <data key="d1">0.175</data>
+</edge>
+<edge source="195522.BD01_1607" target="195522.BD01_1359">
+  <data key="d0">245.0</data>
+  <data key="d1">0.245</data>
+</edge>
+<edge source="195522.BD01_1607" target="195522.BD01_1933">
+  <data key="d0">245.0</data>
+  <data key="d1">0.245</data>
+</edge>
+<edge source="195522.BD01_1607" target="195522.BD01_2085">
+  <data key="d0">245.0</data>
+  <data key="d1">0.245</data>
+</edge>
+<edge source="195522.BD01_1607" target="195522.BD01_2172">
+  <data key="d0">194.0</data>
+  <data key="d1">0.194</data>
+</edge>
+<edge source="195522.BD01_1607" target="195522.BD01_1714">
+  <data key="d0">174.0</data>
+  <data key="d1">0.174</data>
+</edge>
+<edge source="195522.BD01_1607" target="195522.BD01_1339">
+  <data key="d0">261.0</data>
+  <data key="d1">0.261</data>
+</edge>
+<edge source="195522.BD01_1607" target="195522.BD01_0869">
+  <data key="d0">442.0</data>
+  <data key="d1">0.442</data>
+</edge>
+<edge source="195522.BD01_0814" target="195522.BD01_2085">
+  <data key="d0">245.0</data>
+  <data key="d1">0.245</data>
+</edge>
+<edge source="195522.BD01_0814" target="195522.BD01_0350">
+  <data key="d0">245.0</data>
+  <data key="d1">0.245</data>
+</edge>
+<edge source="195522.BD01_0814" target="195522.BD01_0893">
+  <data key="d0">245.0</data>
+  <data key="d1">0.245</data>
+</edge>
+<edge source="195522.BD01_0814" target="195522.BD01_0987">
+  <data key="d0">245.0</data>
+  <data key="d1">0.245</data>
+</edge>
+<edge source="195522.BD01_0814" target="195522.BD01_1104">
+  <data key="d0">175.0</data>
+  <data key="d1">0.175</data>
+</edge>
+<edge source="195522.BD01_0814" target="195522.BD01_1359">
+  <data key="d0">245.0</data>
+  <data key="d1">0.245</data>
+</edge>
+<edge source="195522.BD01_0814" target="195522.BD01_1714">
+  <data key="d0">174.0</data>
+  <data key="d1">0.174</data>
+</edge>
+<edge source="195522.BD01_0814" target="195522.BD01_1933">
+  <data key="d0">245.0</data>
+  <data key="d1">0.245</data>
+</edge>
+<edge source="195522.BD01_0814" target="195522.BD01_2172">
+  <data key="d0">194.0</data>
+  <data key="d1">0.194</data>
+</edge>
+<edge source="195522.BD01_0814" target="195522.BD01_1339">
+  <data key="d0">261.0</data>
+  <data key="d1">0.261</data>
+</edge>
+<edge source="195522.BD01_0814" target="195522.BD01_0869">
+  <data key="d0">442.0</data>
+  <data key="d1">0.442</data>
+</edge>
+<edge source="195522.BD01_0095" target="195522.BD01_0713">
+  <data key="d0">181.0</data>
+  <data key="d1">0.181</data>
+</edge>
+<edge source="195522.BD01_0095" target="195522.BD01_1914">
+  <data key="d0">181.0</data>
+  <data key="d1">0.181</data>
+</edge>
+<edge source="195522.BD01_0095" target="195522.BD01_1110">
+  <data key="d0">170.0</data>
+  <data key="d1">0.17</data>
+</edge>
+<edge source="195522.BD01_0713" target="195522.BD01_1501">
+  <data key="d0">293.0</data>
+  <data key="d1">0.293</data>
+</edge>
+<edge source="195522.BD01_0713" target="195522.BD01_1906">
+  <data key="d0">293.0</data>
+  <data key="d1">0.293</data>
+</edge>
+<edge source="195522.BD01_0713" target="195522.BD01_1921">
+  <data key="d0">293.0</data>
+  <data key="d1">0.293</data>
+</edge>
+<edge source="195522.BD01_0713" target="195522.BD01_2003">
+  <data key="d0">81.0</data>
+  <data key="d1">0.081</data>
+</edge>
+<edge source="195522.BD01_0713" target="195522.BD01_1376">
+  <data key="d0">293.0</data>
+  <data key="d1">0.293</data>
+</edge>
+<edge source="195522.BD01_0713" target="195522.BD01_0029">
+  <data key="d0">165.0</data>
+  <data key="d1">0.165</data>
+</edge>
+<edge source="195522.BD01_0713" target="195522.BD01_1510">
+  <data key="d0">181.0</data>
+  <data key="d1">0.181</data>
+</edge>
+<edge source="195522.BD01_0713" target="195522.BD01_1994">
+  <data key="d0">181.0</data>
+  <data key="d1">0.181</data>
+</edge>
+<edge source="195522.BD01_1914" target="195522.BD01_1501">
+  <data key="d0">293.0</data>
+  <data key="d1">0.293</data>
+</edge>
+<edge source="195522.BD01_1914" target="195522.BD01_0029">
+  <data key="d0">165.0</data>
+  <data key="d1">0.165</data>
+</edge>
+<edge source="195522.BD01_1914" target="195522.BD01_1376">
+  <data key="d0">293.0</data>
+  <data key="d1">0.293</data>
+</edge>
+<edge source="195522.BD01_1914" target="195522.BD01_1906">
+  <data key="d0">293.0</data>
+  <data key="d1">0.293</data>
+</edge>
+<edge source="195522.BD01_1914" target="195522.BD01_1921">
+  <data key="d0">293.0</data>
+  <data key="d1">0.293</data>
+</edge>
+<edge source="195522.BD01_1914" target="195522.BD01_2003">
+  <data key="d0">81.0</data>
+  <data key="d1">0.081</data>
+</edge>
+<edge source="195522.BD01_1914" target="195522.BD01_1510">
+  <data key="d0">181.0</data>
+  <data key="d1">0.181</data>
+</edge>
+<edge source="195522.BD01_1914" target="195522.BD01_1994">
+  <data key="d0">181.0</data>
+  <data key="d1">0.181</data>
+</edge>
+<edge source="195522.BD01_1110" target="195522.BD01_1510">
+  <data key="d0">170.0</data>
+  <data key="d1">0.17</data>
+</edge>
+<edge source="195522.BD01_1110" target="195522.BD01_1994">
+  <data key="d0">170.0</data>
+  <data key="d1">0.17</data>
+</edge>
+<edge source="195522.BD01_0110" target="195522.BD01_1160">
+  <data key="d0">197.0</data>
+  <data key="d1">0.197</data>
+</edge>
+<edge source="195522.BD01_0110" target="195522.BD01_0633">
+  <data key="d0">598.0</data>
+  <data key="d1">0.598</data>
+</edge>
+<edge source="195522.BD01_1160" target="195522.BD01_2124">
+  <data key="d0">707.0</data>
+  <data key="d1">0.707</data>
+</edge>
+<edge source="195522.BD01_1160" target="195522.BD01_0645">
+  <data key="d0">707.0</data>
+  <data key="d1">0.707</data>
+</edge>
+<edge source="195522.BD01_1160" target="195522.BD01_1158">
+  <data key="d0">707.0</data>
+  <data key="d1">0.707</data>
+</edge>
+<edge source="195522.BD01_1160" target="195522.BD01_1166">
+  <data key="d0">707.0</data>
+  <data key="d1">0.707</data>
+</edge>
+<edge source="195522.BD01_1160" target="195522.BD01_1365">
+  <data key="d0">707.0</data>
+  <data key="d1">0.707</data>
+</edge>
+<edge source="195522.BD01_1160" target="195522.BD01_1584">
+  <data key="d0">707.0</data>
+  <data key="d1">0.707</data>
+</edge>
+<edge source="195522.BD01_1160" target="195522.BD01_1320">
+  <data key="d0">171.0</data>
+  <data key="d1">0.171</data>
+</edge>
+<edge source="195522.BD01_1160" target="195522.BD01_1162">
+  <data key="d0">800.0</data>
+  <data key="d1">0.8</data>
+</edge>
+<edge source="195522.BD01_1160" target="195522.BD01_1157">
+  <data key="d0">765.0</data>
+  <data key="d1">0.765</data>
+</edge>
+<edge source="195522.BD01_1160" target="195522.BD01_1161">
+  <data key="d0">202.0</data>
+  <data key="d1">0.202</data>
+</edge>
+<edge source="195522.BD01_1160" target="195522.BD01_1159">
+  <data key="d0">430.0</data>
+  <data key="d1">0.43</data>
+</edge>
+<edge source="195522.BD01_0119" target="195522.BD01_0735">
+  <data key="d0">177.0</data>
+  <data key="d1">0.177</data>
+</edge>
+<edge source="195522.BD01_0119" target="195522.BD01_0290">
+  <data key="d0">175.0</data>
+  <data key="d1">0.175</data>
+</edge>
+<edge source="195522.BD01_0119" target="195522.BD01_1320">
+  <data key="d0">178.0</data>
+  <data key="d1">0.178</data>
+</edge>
+<edge source="195522.BD01_0735" target="195522.BD01_1320">
+  <data key="d0">173.0</data>
+  <data key="d1">0.173</data>
+</edge>
+<edge source="195522.BD01_0735" target="195522.BD01_1985">
+  <data key="d0">177.0</data>
+  <data key="d1">0.177</data>
+</edge>
+<edge source="195522.BD01_0735" target="195522.BD01_1348">
+  <data key="d0">170.0</data>
+  <data key="d1">0.17</data>
+</edge>
+<edge source="195522.BD01_0290" target="195522.BD01_1985">
+  <data key="d0">175.0</data>
+  <data key="d1">0.175</data>
+</edge>
+<edge source="195522.BD01_1320" target="195522.BD01_1985">
+  <data key="d0">89.0</data>
+  <data key="d1">0.089</data>
+</edge>
+<edge source="195522.BD01_0185" target="195522.BD01_0601">
+  <data key="d0">418.0</data>
+  <data key="d1">0.418</data>
+</edge>
+<edge source="195522.BD01_0185" target="195522.BD01_0756">
+  <data key="d0">205.0</data>
+  <data key="d1">0.205</data>
+</edge>
+<edge source="195522.BD01_0601" target="195522.BD01_0376">
+  <data key="d0">170.0</data>
+  <data key="d1">0.17</data>
+</edge>
+<edge source="195522.BD01_0601" target="195522.BD01_0378">
+  <data key="d0">170.0</data>
+  <data key="d1">0.17</data>
+</edge>
+<edge source="195522.BD01_0756" target="195522.BD01_1635">
+  <data key="d0">170.0</data>
+  <data key="d1">0.17</data>
+</edge>
+<edge source="195522.BD01_0756" target="195522.BD01_1774">
+  <data key="d0">268.0</data>
+  <data key="d1">0.268</data>
+</edge>
+<edge source="195522.BD01_0756" target="195522.BD01_1953">
+  <data key="d0">268.0</data>
+  <data key="d1">0.268</data>
+</edge>
+<edge source="195522.BD01_0756" target="195522.BD01_0633">
+  <data key="d0">175.0</data>
+  <data key="d1">0.175</data>
+</edge>
+<edge source="195522.BD01_0756" target="195522.BD01_0232">
+  <data key="d0">219.0</data>
+  <data key="d1">0.219</data>
+</edge>
+<edge source="195522.BD01_0756" target="195522.BD01_0348">
+  <data key="d0">235.0</data>
+  <data key="d1">0.235</data>
+</edge>
+<edge source="195522.BD01_0756" target="195522.BD01_0376">
+  <data key="d0">170.0</data>
+  <data key="d1">0.17</data>
+</edge>
+<edge source="195522.BD01_0756" target="195522.BD01_0378">
+  <data key="d0">170.0</data>
+  <data key="d1">0.17</data>
+</edge>
+<edge source="195522.BD01_0756" target="195522.BD01_0857">
+  <data key="d0">150.0</data>
+  <data key="d1">0.15</data>
+</edge>
+<edge source="195522.BD01_0756" target="195522.BD01_1637">
+  <data key="d0">150.0</data>
+  <data key="d1">0.15</data>
+</edge>
+<edge source="195522.BD01_0187" target="195522.BD01_2187">
+  <data key="d0">175.0</data>
+  <data key="d1">0.175</data>
+</edge>
+<edge source="195522.BD01_0187" target="195522.BD01_2151">
+  <data key="d0">155.0</data>
+  <data key="d1">0.155</data>
+</edge>
+<edge source="195522.BD01_0187" target="195522.BD01_1570">
+  <data key="d0">181.0</data>
+  <data key="d1">0.181</data>
+</edge>
+<edge source="195522.BD01_2187" target="195522.BD01_0192">
+  <data key="d0">374.0</data>
+  <data key="d1">0.374</data>
+</edge>
+<edge source="195522.BD01_2187" target="195522.BD01_0193">
+  <data key="d0">254.0</data>
+  <data key="d1">0.254</data>
+</edge>
+<edge source="195522.BD01_2187" target="195522.BD01_0334">
+  <data key="d0">242.0</data>
+  <data key="d1">0.242</data>
+</edge>
+<edge source="195522.BD01_2187" target="195522.BD01_0474">
+  <data key="d0">254.0</data>
+  <data key="d1">0.254</data>
+</edge>
+<edge source="195522.BD01_2187" target="195522.BD01_0477">
+  <data key="d0">254.0</data>
+  <data key="d1">0.254</data>
+</edge>
+<edge source="195522.BD01_2187" target="195522.BD01_0616">
+  <data key="d0">254.0</data>
+  <data key="d1">0.254</data>
+</edge>
+<edge source="195522.BD01_2187" target="195522.BD01_1387">
+  <data key="d0">241.0</data>
+  <data key="d1">0.241</data>
+</edge>
+<edge source="195522.BD01_2187" target="195522.BD01_1508">
+  <data key="d0">254.0</data>
+  <data key="d1">0.254</data>
+</edge>
+<edge source="195522.BD01_2187" target="195522.BD01_2094">
+  <data key="d0">242.0</data>
+  <data key="d1">0.242</data>
+</edge>
+<edge source="195522.BD01_2187" target="195522.BD01_2095">
+  <data key="d0">217.0</data>
+  <data key="d1">0.217</data>
+</edge>
+<edge source="195522.BD01_2187" target="195522.BD01_2096">
+  <data key="d0">242.0</data>
+  <data key="d1">0.242</data>
+</edge>
+<edge source="195522.BD01_2187" target="195522.BD01_2158">
+  <data key="d0">254.0</data>
+  <data key="d1">0.254</data>
+</edge>
+<edge source="195522.BD01_2187" target="195522.BD01_2164">
+  <data key="d0">254.0</data>
+  <data key="d1">0.254</data>
+</edge>
+<edge source="195522.BD01_2187" target="195522.BD01_2192">
+  <data key="d0">237.0</data>
+  <data key="d1">0.237</data>
+</edge>
+<edge source="195522.BD01_0188" target="195522.BD01_2188">
+  <data key="d0">205.0</data>
+  <data key="d1">0.205</data>
+</edge>
+<edge source="195522.BD01_2188" target="195522.BD01_2160">
+  <data key="d0">155.0</data>
+  <data key="d1">0.155</data>
+</edge>
+<edge source="195522.BD01_2188" target="195522.BD01_2186">
+  <data key="d0">157.0</data>
+  <data key="d1">0.157</data>
+</edge>
+<edge source="195522.BD01_2188" target="195522.BD01_2159">
+  <data key="d0">155.0</data>
+  <data key="d1">0.155</data>
+</edge>
+<edge source="195522.BD01_2188" target="195522.BD01_0189">
+  <data key="d0">205.0</data>
+  <data key="d1">0.205</data>
+</edge>
+<edge source="195522.BD01_2188" target="195522.BD01_1570">
+  <data key="d0">189.0</data>
+  <data key="d1">0.189</data>
+</edge>
+<edge source="195522.BD01_0192" target="195522.BD01_0950">
+  <data key="d0">237.0</data>
+  <data key="d1">0.237</data>
+</edge>
+<edge source="195522.BD01_0192" target="195522.BD01_1732">
+  <data key="d0">237.0</data>
+  <data key="d1">0.237</data>
+</edge>
+<edge source="195522.BD01_0192" target="195522.BD01_2034">
+  <data key="d0">387.0</data>
+  <data key="d1">0.387</data>
+</edge>
+<edge source="195522.BD01_0192" target="195522.BD01_2169">
+  <data key="d0">387.0</data>
+  <data key="d1">0.387</data>
+</edge>
+<edge source="195522.BD01_0192" target="195522.BD01_2186">
+  <data key="d0">377.0</data>
+  <data key="d1">0.377</data>
+</edge>
+<edge source="195522.BD01_0192" target="195522.BD01_2074">
+  <data key="d0">237.0</data>
+  <data key="d1">0.237</data>
+</edge>
+<edge source="195522.BD01_0192" target="195522.BD01_0275">
+  <data key="d0">237.0</data>
+  <data key="d1">0.237</data>
+</edge>
+<edge source="195522.BD01_0192" target="195522.BD01_0617">
+  <data key="d0">370.0</data>
+  <data key="d1">0.37</data>
+</edge>
+<edge source="195522.BD01_0950" target="195522.BD01_0193">
+  <data key="d0">235.0</data>
+  <data key="d1">0.235</data>
+</edge>
+<edge source="195522.BD01_0950" target="195522.BD01_0474">
+  <data key="d0">242.0</data>
+  <data key="d1">0.242</data>
+</edge>
+<edge source="195522.BD01_0950" target="195522.BD01_0477">
+  <data key="d0">242.0</data>
+  <data key="d1">0.242</data>
+</edge>
+<edge source="195522.BD01_0950" target="195522.BD01_0616">
+  <data key="d0">242.0</data>
+  <data key="d1">0.242</data>
+</edge>
+<edge source="195522.BD01_0950" target="195522.BD01_1508">
+  <data key="d0">242.0</data>
+  <data key="d1">0.242</data>
+</edge>
+<edge source="195522.BD01_0950" target="195522.BD01_2158">
+  <data key="d0">242.0</data>
+  <data key="d1">0.242</data>
+</edge>
+<edge source="195522.BD01_0950" target="195522.BD01_2164">
+  <data key="d0">242.0</data>
+  <data key="d1">0.242</data>
+</edge>
+<edge source="195522.BD01_0950" target="195522.BD01_2192">
+  <data key="d0">223.0</data>
+  <data key="d1">0.223</data>
+</edge>
+<edge source="195522.BD01_1732" target="195522.BD01_0193">
+  <data key="d0">235.0</data>
+  <data key="d1">0.235</data>
+</edge>
+<edge source="195522.BD01_1732" target="195522.BD01_0474">
+  <data key="d0">272.0</data>
+  <data key="d1">0.272</data>
+</edge>
+<edge source="195522.BD01_1732" target="195522.BD01_0477">
+  <data key="d0">272.0</data>
+  <data key="d1">0.272</data>
+</edge>
+<edge source="195522.BD01_1732" target="195522.BD01_0616">
+  <data key="d0">272.0</data>
+  <data key="d1">0.272</data>
+</edge>
+<edge source="195522.BD01_1732" target="195522.BD01_1508">
+  <data key="d0">268.0</data>
+  <data key="d1">0.268</data>
+</edge>
+<edge source="195522.BD01_1732" target="195522.BD01_2158">
+  <data key="d0">268.0</data>
+  <data key="d1">0.268</data>
+</edge>
+<edge source="195522.BD01_1732" target="195522.BD01_2164">
+  <data key="d0">268.0</data>
+  <data key="d1">0.268</data>
+</edge>
+<edge source="195522.BD01_1732" target="195522.BD01_2192">
+  <data key="d0">223.0</data>
+  <data key="d1">0.223</data>
+</edge>
+<edge source="195522.BD01_2034" target="195522.BD01_0193">
+  <data key="d0">272.0</data>
+  <data key="d1">0.272</data>
+</edge>
+<edge source="195522.BD01_2034" target="195522.BD01_0334">
+  <data key="d0">242.0</data>
+  <data key="d1">0.242</data>
+</edge>
+<edge source="195522.BD01_2034" target="195522.BD01_0474">
+  <data key="d0">272.0</data>
+  <data key="d1">0.272</data>
+</edge>
+<edge source="195522.BD01_2034" target="195522.BD01_0477">
+  <data key="d0">272.0</data>
+  <data key="d1">0.272</data>
+</edge>
+<edge source="195522.BD01_2034" target="195522.BD01_0616">
+  <data key="d0">272.0</data>
+  <data key="d1">0.272</data>
+</edge>
+<edge source="195522.BD01_2034" target="195522.BD01_1387">
+  <data key="d0">242.0</data>
+  <data key="d1">0.242</data>
+</edge>
+<edge source="195522.BD01_2034" target="195522.BD01_1508">
+  <data key="d0">272.0</data>
+  <data key="d1">0.272</data>
+</edge>
+<edge source="195522.BD01_2034" target="195522.BD01_2094">
+  <data key="d0">242.0</data>
+  <data key="d1">0.242</data>
+</edge>
+<edge source="195522.BD01_2034" target="195522.BD01_2095">
+  <data key="d0">217.0</data>
+  <data key="d1">0.217</data>
+</edge>
+<edge source="195522.BD01_2034" target="195522.BD01_2096">
+  <data key="d0">242.0</data>
+  <data key="d1">0.242</data>
+</edge>
+<edge source="195522.BD01_2034" target="195522.BD01_2158">
+  <data key="d0">272.0</data>
+  <data key="d1">0.272</data>
+</edge>
+<edge source="195522.BD01_2034" target="195522.BD01_2164">
+  <data key="d0">272.0</data>
+  <data key="d1">0.272</data>
+</edge>
+<edge source="195522.BD01_2034" target="195522.BD01_2192">
+  <data key="d0">254.0</data>
+  <data key="d1">0.254</data>
+</edge>
+<edge source="195522.BD01_2169" target="195522.BD01_0193">
+  <data key="d0">272.0</data>
+  <data key="d1">0.272</data>
+</edge>
+<edge source="195522.BD01_2169" target="195522.BD01_0334">
+  <data key="d0">350.0</data>
+  <data key="d1">0.35</data>
+</edge>
+<edge source="195522.BD01_2169" target="195522.BD01_0474">
+  <data key="d0">272.0</data>
+  <data key="d1">0.272</data>
+</edge>
+<edge source="195522.BD01_2169" target="195522.BD01_0477">
+  <data key="d0">272.0</data>
+  <data key="d1">0.272</data>
+</edge>
+<edge source="195522.BD01_2169" target="195522.BD01_0571">
+  <data key="d0">317.0</data>
+  <data key="d1">0.317</data>
+</edge>
+<edge source="195522.BD01_2169" target="195522.BD01_0616">
+  <data key="d0">272.0</data>
+  <data key="d1">0.272</data>
+</edge>
+<edge source="195522.BD01_2169" target="195522.BD01_0909">
+  <data key="d0">317.0</data>
+  <data key="d1">0.317</data>
+</edge>
+<edge source="195522.BD01_2169" target="195522.BD01_0957">
+  <data key="d0">317.0</data>
+  <data key="d1">0.317</data>
+</edge>
+<edge source="195522.BD01_2169" target="195522.BD01_0961">
+  <data key="d0">317.0</data>
+  <data key="d1">0.317</data>
+</edge>
+<edge source="195522.BD01_2169" target="195522.BD01_1154">
+  <data key="d0">317.0</data>
+  <data key="d1">0.317</data>
+</edge>
+<edge source="195522.BD01_2169" target="195522.BD01_1267">
+  <data key="d0">317.0</data>
+  <data key="d1">0.317</data>
+</edge>
+<edge source="195522.BD01_2169" target="195522.BD01_1335">
+  <data key="d0">317.0</data>
+  <data key="d1">0.317</data>
+</edge>
+<edge source="195522.BD01_2169" target="195522.BD01_1387">
+  <data key="d0">239.0</data>
+  <data key="d1">0.239</data>
+</edge>
+<edge source="195522.BD01_2169" target="195522.BD01_1437">
+  <data key="d0">317.0</data>
+  <data key="d1">0.317</data>
+</edge>
+<edge source="195522.BD01_2169" target="195522.BD01_1508">
+  <data key="d0">272.0</data>
+  <data key="d1">0.272</data>
+</edge>
+<edge source="195522.BD01_2169" target="195522.BD01_1975">
+  <data key="d0">317.0</data>
+  <data key="d1">0.317</data>
+</edge>
+<edge source="195522.BD01_2169" target="195522.BD01_2008">
+  <data key="d0">317.0</data>
+  <data key="d1">0.317</data>
+</edge>
+<edge source="195522.BD01_2169" target="195522.BD01_2094">
+  <data key="d0">350.0</data>
+  <data key="d1">0.35</data>
+</edge>
+<edge source="195522.BD01_2169" target="195522.BD01_2095">
+  <data key="d0">319.0</data>
+  <data key="d1">0.319</data>
+</edge>
+<edge source="195522.BD01_2169" target="195522.BD01_2096">
+  <data key="d0">350.0</data>
+  <data key="d1">0.35</data>
+</edge>
+<edge source="195522.BD01_2169" target="195522.BD01_2158">
+  <data key="d0">272.0</data>
+  <data key="d1">0.272</data>
+</edge>
+<edge source="195522.BD01_2169" target="195522.BD01_2164">
+  <data key="d0">272.0</data>
+  <data key="d1">0.272</data>
+</edge>
+<edge source="195522.BD01_2169" target="195522.BD01_2192">
+  <data key="d0">254.0</data>
+  <data key="d1">0.254</data>
+</edge>
+<edge source="195522.BD01_2186" target="195522.BD01_0193">
+  <data key="d0">265.0</data>
+  <data key="d1">0.265</data>
+</edge>
+<edge source="195522.BD01_2186" target="195522.BD01_0334">
+  <data key="d0">242.0</data>
+  <data key="d1">0.242</data>
+</edge>
+<edge source="195522.BD01_2186" target="195522.BD01_0474">
+  <data key="d0">265.0</data>
+  <data key="d1">0.265</data>
+</edge>
+<edge source="195522.BD01_2186" target="195522.BD01_0477">
+  <data key="d0">265.0</data>
+  <data key="d1">0.265</data>
+</edge>
+<edge source="195522.BD01_2186" target="195522.BD01_0616">
+  <data key="d0">265.0</data>
+  <data key="d1">0.265</data>
+</edge>
+<edge source="195522.BD01_2186" target="195522.BD01_1387">
+  <data key="d0">242.0</data>
+  <data key="d1">0.242</data>
+</edge>
+<edge source="195522.BD01_2186" target="195522.BD01_1508">
+  <data key="d0">265.0</data>
+  <data key="d1">0.265</data>
+</edge>
+<edge source="195522.BD01_2186" target="195522.BD01_2094">
+  <data key="d0">242.0</data>
+  <data key="d1">0.242</data>
+</edge>
+<edge source="195522.BD01_2186" target="195522.BD01_2095">
+  <data key="d0">217.0</data>
+  <data key="d1">0.217</data>
+</edge>
+<edge source="195522.BD01_2186" target="195522.BD01_2096">
+  <data key="d0">242.0</data>
+  <data key="d1">0.242</data>
+</edge>
+<edge source="195522.BD01_2186" target="195522.BD01_2158">
+  <data key="d0">265.0</data>
+  <data key="d1">0.265</data>
+</edge>
+<edge source="195522.BD01_2186" target="195522.BD01_2164">
+  <data key="d0">265.0</data>
+  <data key="d1">0.265</data>
+</edge>
+<edge source="195522.BD01_2186" target="195522.BD01_2192">
+  <data key="d0">248.0</data>
+  <data key="d1">0.248</data>
+</edge>
+<edge source="195522.BD01_2074" target="195522.BD01_0193">
+  <data key="d0">235.0</data>
+  <data key="d1">0.235</data>
+</edge>
+<edge source="195522.BD01_2074" target="195522.BD01_0474">
+  <data key="d0">242.0</data>
+  <data key="d1">0.242</data>
+</edge>
+<edge source="195522.BD01_2074" target="195522.BD01_0477">
+  <data key="d0">240.0</data>
+  <data key="d1">0.24</data>
+</edge>
+<edge source="195522.BD01_2074" target="195522.BD01_0616">
+  <data key="d0">242.0</data>
+  <data key="d1">0.242</data>
+</edge>
+<edge source="195522.BD01_2074" target="195522.BD01_1508">
+  <data key="d0">242.0</data>
+  <data key="d1">0.242</data>
+</edge>
+<edge source="195522.BD01_2074" target="195522.BD01_2158">
+  <data key="d0">242.0</data>
+  <data key="d1">0.242</data>
+</edge>
+<edge source="195522.BD01_2074" target="195522.BD01_2164">
+  <data key="d0">242.0</data>
+  <data key="d1">0.242</data>
+</edge>
+<edge source="195522.BD01_2074" target="195522.BD01_2192">
+  <data key="d0">223.0</data>
+  <data key="d1">0.223</data>
+</edge>
+<edge source="195522.BD01_0275" target="195522.BD01_0193">
+  <data key="d0">235.0</data>
+  <data key="d1">0.235</data>
+</edge>
+<edge source="195522.BD01_0275" target="195522.BD01_0474">
+  <data key="d0">272.0</data>
+  <data key="d1">0.272</data>
+</edge>
+<edge source="195522.BD01_0275" target="195522.BD01_0477">
+  <data key="d0">272.0</data>
+  <data key="d1">0.272</data>
+</edge>
+<edge source="195522.BD01_0275" target="195522.BD01_0616">
+  <data key="d0">272.0</data>
+  <data key="d1">0.272</data>
+</edge>
+<edge source="195522.BD01_0275" target="195522.BD01_1508">
+  <data key="d0">268.0</data>
+  <data key="d1">0.268</data>
+</edge>
+<edge source="195522.BD01_0275" target="195522.BD01_2158">
+  <data key="d0">268.0</data>
+  <data key="d1">0.268</data>
+</edge>
+<edge source="195522.BD01_0275" target="195522.BD01_2164">
+  <data key="d0">268.0</data>
+  <data key="d1">0.268</data>
+</edge>
+<edge source="195522.BD01_0275" target="195522.BD01_2192">
+  <data key="d0">223.0</data>
+  <data key="d1">0.223</data>
+</edge>
+<edge source="195522.BD01_0617" target="195522.BD01_0193">
+  <data key="d0">247.0</data>
+  <data key="d1">0.247</data>
+</edge>
+<edge source="195522.BD01_0617" target="195522.BD01_0474">
+  <data key="d0">247.0</data>
+  <data key="d1">0.247</data>
+</edge>
+<edge source="195522.BD01_0617" target="195522.BD01_0477">
+  <data key="d0">247.0</data>
+  <data key="d1">0.247</data>
+</edge>
+<edge source="195522.BD01_0617" target="195522.BD01_0571">
+  <data key="d0">154.0</data>
+  <data key="d1">0.154</data>
+</edge>
+<edge source="195522.BD01_0617" target="195522.BD01_0616">
+  <data key="d0">247.0</data>
+  <data key="d1">0.247</data>
+</edge>
+<edge source="195522.BD01_0617" target="195522.BD01_0909">
+  <data key="d0">154.0</data>
+  <data key="d1">0.154</data>
+</edge>
+<edge source="195522.BD01_0617" target="195522.BD01_0957">
+  <data key="d0">154.0</data>
+  <data key="d1">0.154</data>
+</edge>
+<edge source="195522.BD01_0617" target="195522.BD01_0961">
+  <data key="d0">154.0</data>
+  <data key="d1">0.154</data>
+</edge>
+<edge source="195522.BD01_0617" target="195522.BD01_1154">
+  <data key="d0">154.0</data>
+  <data key="d1">0.154</data>
+</edge>
+<edge source="195522.BD01_0617" target="195522.BD01_1267">
+  <data key="d0">154.0</data>
+  <data key="d1">0.154</data>
+</edge>
+<edge source="195522.BD01_0617" target="195522.BD01_1335">
+  <data key="d0">154.0</data>
+  <data key="d1">0.154</data>
+</edge>
+<edge source="195522.BD01_0617" target="195522.BD01_1437">
+  <data key="d0">154.0</data>
+  <data key="d1">0.154</data>
+</edge>
+<edge source="195522.BD01_0617" target="195522.BD01_1508">
+  <data key="d0">247.0</data>
+  <data key="d1">0.247</data>
+</edge>
+<edge source="195522.BD01_0617" target="195522.BD01_1975">
+  <data key="d0">154.0</data>
+  <data key="d1">0.154</data>
+</edge>
+<edge source="195522.BD01_0617" target="195522.BD01_2008">
+  <data key="d0">154.0</data>
+  <data key="d1">0.154</data>
+</edge>
+<edge source="195522.BD01_0617" target="195522.BD01_2158">
+  <data key="d0">247.0</data>
+  <data key="d1">0.247</data>
+</edge>
+<edge source="195522.BD01_0617" target="195522.BD01_2164">
+  <data key="d0">247.0</data>
+  <data key="d1">0.247</data>
+</edge>
+<edge source="195522.BD01_0617" target="195522.BD01_2192">
+  <data key="d0">230.0</data>
+  <data key="d1">0.23</data>
+</edge>
+<edge source="195522.BD01_0193" target="195522.BD01_0571">
+  <data key="d0">183.0</data>
+  <data key="d1">0.183</data>
+</edge>
+<edge source="195522.BD01_0193" target="195522.BD01_0909">
+  <data key="d0">183.0</data>
+  <data key="d1">0.183</data>
+</edge>
+<edge source="195522.BD01_0193" target="195522.BD01_0957">
+  <data key="d0">183.0</data>
+  <data key="d1">0.183</data>
+</edge>
+<edge source="195522.BD01_0193" target="195522.BD01_0961">
+  <data key="d0">183.0</data>
+  <data key="d1">0.183</data>
+</edge>
+<edge source="195522.BD01_0193" target="195522.BD01_1154">
+  <data key="d0">183.0</data>
+  <data key="d1">0.183</data>
+</edge>
+<edge source="195522.BD01_0193" target="195522.BD01_1267">
+  <data key="d0">183.0</data>
+  <data key="d1">0.183</data>
+</edge>
+<edge source="195522.BD01_0193" target="195522.BD01_1335">
+  <data key="d0">183.0</data>
+  <data key="d1">0.183</data>
+</edge>
+<edge source="195522.BD01_0193" target="195522.BD01_1437">
+  <data key="d0">183.0</data>
+  <data key="d1">0.183</data>
+</edge>
+<edge source="195522.BD01_0193" target="195522.BD01_1975">
+  <data key="d0">183.0</data>
+  <data key="d1">0.183</data>
+</edge>
+<edge source="195522.BD01_0193" target="195522.BD01_2008">
+  <data key="d0">183.0</data>
+  <data key="d1">0.183</data>
+</edge>
+<edge source="195522.BD01_0221" target="195522.BD01_0382">
+  <data key="d0">175.0</data>
+  <data key="d1">0.175</data>
+</edge>
+<edge source="195522.BD01_0382" target="195522.BD01_0281">
+  <data key="d0">175.0</data>
+  <data key="d1">0.175</data>
+</edge>
+<edge source="195522.BD01_0234" target="195522.BD01_0180">
+  <data key="d0">211.0</data>
+  <data key="d1">0.211</data>
+</edge>
+<edge source="195522.BD01_0234" target="195522.BD01_0641">
+  <data key="d0">170.0</data>
+  <data key="d1">0.17</data>
+</edge>
+<edge source="195522.BD01_0234" target="195522.BD01_2137">
+  <data key="d0">170.0</data>
+  <data key="d1">0.17</data>
+</edge>
+<edge source="195522.BD01_0234" target="195522.BD01_1037">
+  <data key="d0">186.0</data>
+  <data key="d1">0.186</data>
+</edge>
+<edge source="195522.BD01_0234" target="195522.BD01_0858">
+  <data key="d0">174.0</data>
+  <data key="d1">0.174</data>
+</edge>
+<edge source="195522.BD01_0234" target="195522.BD01_0642">
+  <data key="d0">163.0</data>
+  <data key="d1">0.163</data>
+</edge>
+<edge source="195522.BD01_0180" target="195522.BD01_0858">
+  <data key="d0">285.0</data>
+  <data key="d1">0.285</data>
+</edge>
+<edge source="195522.BD01_0180" target="195522.BD01_0729">
+  <data key="d0">211.0</data>
+  <data key="d1">0.211</data>
+</edge>
+<edge source="195522.BD01_0180" target="195522.BD01_2058">
+  <data key="d0">211.0</data>
+  <data key="d1">0.211</data>
+</edge>
+<edge source="195522.BD01_0641" target="195522.BD01_0948">
+  <data key="d0">225.0</data>
+  <data key="d1">0.225</data>
+</edge>
+<edge source="195522.BD01_0641" target="195522.BD01_0858">
+  <data key="d0">303.0</data>
+  <data key="d1">0.303</data>
+</edge>
+<edge source="195522.BD01_0641" target="195522.BD01_0729">
+  <data key="d0">170.0</data>
+  <data key="d1">0.17</data>
+</edge>
+<edge source="195522.BD01_0641" target="195522.BD01_1244">
+  <data key="d0">184.0</data>
+  <data key="d1">0.184</data>
+</edge>
+<edge source="195522.BD01_0641" target="195522.BD01_1245">
+  <data key="d0">165.0</data>
+  <data key="d1">0.165</data>
+</edge>
+<edge source="195522.BD01_0641" target="195522.BD01_2058">
+  <data key="d0">170.0</data>
+  <data key="d1">0.17</data>
+</edge>
+<edge source="195522.BD01_2137" target="195522.BD01_0948">
+  <data key="d0">225.0</data>
+  <data key="d1">0.225</data>
+</edge>
+<edge source="195522.BD01_2137" target="195522.BD01_0858">
+  <data key="d0">303.0</data>
+  <data key="d1">0.303</data>
+</edge>
+<edge source="195522.BD01_2137" target="195522.BD01_0729">
+  <data key="d0">170.0</data>
+  <data key="d1">0.17</data>
+</edge>
+<edge source="195522.BD01_2137" target="195522.BD01_1244">
+  <data key="d0">184.0</data>
+  <data key="d1">0.184</data>
+</edge>
+<edge source="195522.BD01_2137" target="195522.BD01_1245">
+  <data key="d0">165.0</data>
+  <data key="d1">0.165</data>
+</edge>
+<edge source="195522.BD01_2137" target="195522.BD01_2058">
+  <data key="d0">170.0</data>
+  <data key="d1">0.17</data>
+</edge>
+<edge source="195522.BD01_1037" target="195522.BD01_1254">
+  <data key="d0">178.0</data>
+  <data key="d1">0.178</data>
+</edge>
+<edge source="195522.BD01_1037" target="195522.BD01_1821">
+  <data key="d0">205.0</data>
+  <data key="d1">0.205</data>
+</edge>
+<edge source="195522.BD01_1037" target="195522.BD01_0858">
+  <data key="d0">607.0</data>
+  <data key="d1">0.607</data>
+</edge>
+<edge source="195522.BD01_1037" target="195522.BD01_1570">
+  <data key="d0">176.0</data>
+  <data key="d1">0.176</data>
+</edge>
+<edge source="195522.BD01_1037" target="195522.BD01_0729">
+  <data key="d0">186.0</data>
+  <data key="d1">0.186</data>
+</edge>
+<edge source="195522.BD01_1037" target="195522.BD01_2046">
+  <data key="d0">181.0</data>
+  <data key="d1">0.181</data>
+</edge>
+<edge source="195522.BD01_1037" target="195522.BD01_2058">
+  <data key="d0">186.0</data>
+  <data key="d1">0.186</data>
+</edge>
+<edge source="195522.BD01_0858" target="195522.BD01_0604">
+  <data key="d0">237.0</data>
+  <data key="d1">0.237</data>
+</edge>
+<edge source="195522.BD01_0858" target="195522.BD01_0642">
+  <data key="d0">348.0</data>
+  <data key="d1">0.348</data>
+</edge>
+<edge source="195522.BD01_0858" target="195522.BD01_1254">
+  <data key="d0">158.0</data>
+  <data key="d1">0.158</data>
+</edge>
+<edge source="195522.BD01_0858" target="195522.BD01_1430">
+  <data key="d0">508.0</data>
+  <data key="d1">0.508</data>
+</edge>
+<edge source="195522.BD01_0858" target="195522.BD01_1431">
+  <data key="d0">503.0</data>
+  <data key="d1">0.503</data>
+</edge>
+<edge source="195522.BD01_0858" target="195522.BD01_1821">
+  <data key="d0">158.0</data>
+  <data key="d1">0.158</data>
+</edge>
+<edge source="195522.BD01_0858" target="195522.BD01_1825">
+  <data key="d0">498.0</data>
+  <data key="d1">0.498</data>
+</edge>
+<edge source="195522.BD01_0858" target="195522.BD01_2130">
+  <data key="d0">504.0</data>
+  <data key="d1">0.504</data>
+</edge>
+<edge source="195522.BD01_0858" target="195522.BD01_1104">
+  <data key="d0">223.0</data>
+  <data key="d1">0.223</data>
+</edge>
+<edge source="195522.BD01_0858" target="195522.BD01_0729">
+  <data key="d0">174.0</data>
+  <data key="d1">0.174</data>
+</edge>
+<edge source="195522.BD01_0858" target="195522.BD01_2058">
+  <data key="d0">174.0</data>
+  <data key="d1">0.174</data>
+</edge>
+<edge source="195522.BD01_0642" target="195522.BD01_0729">
+  <data key="d0">163.0</data>
+  <data key="d1">0.163</data>
+</edge>
+<edge source="195522.BD01_0642" target="195522.BD01_2058">
+  <data key="d0">163.0</data>
+  <data key="d1">0.163</data>
+</edge>
+<edge source="195522.BD01_0348" target="195522.BD01_0934">
+  <data key="d0">186.0</data>
+  <data key="d1">0.186</data>
+</edge>
+<edge source="195522.BD01_0934" target="195522.BD01_1676">
+  <data key="d0">235.0</data>
+  <data key="d1">0.235</data>
+</edge>
+<edge source="195522.BD01_0934" target="195522.BD01_2020">
+  <data key="d0">241.0</data>
+  <data key="d1">0.241</data>
+</edge>
+<edge source="195522.BD01_0934" target="195522.BD01_2145">
+  <data key="d0">261.0</data>
+  <data key="d1">0.261</data>
+</edge>
+<edge source="195522.BD01_0350" target="195522.BD01_0634">
+  <data key="d0">210.0</data>
+  <data key="d1">0.21</data>
+</edge>
+<edge source="195522.BD01_0350" target="195522.BD01_0725">
+  <data key="d0">234.0</data>
+  <data key="d1">0.234</data>
+</edge>
+<edge source="195522.BD01_0634" target="195522.BD01_1624">
+  <data key="d0">164.0</data>
+  <data key="d1">0.164</data>
+</edge>
+<edge source="195522.BD01_0634" target="195522.BD01_1714">
+  <data key="d0">153.0</data>
+  <data key="d1">0.153</data>
+</edge>
+<edge source="195522.BD01_0634" target="195522.BD01_0725">
+  <data key="d0">150.0</data>
+  <data key="d1">0.15</data>
+</edge>
+<edge source="195522.BD01_0634" target="195522.BD01_1359">
+  <data key="d0">210.0</data>
+  <data key="d1">0.21</data>
+</edge>
+<edge source="195522.BD01_0634" target="195522.BD01_0893">
+  <data key="d0">210.0</data>
+  <data key="d1">0.21</data>
+</edge>
+<edge source="195522.BD01_0634" target="195522.BD01_0987">
+  <data key="d0">210.0</data>
+  <data key="d1">0.21</data>
+</edge>
+<edge source="195522.BD01_0634" target="195522.BD01_1933">
+  <data key="d0">210.0</data>
+  <data key="d1">0.21</data>
+</edge>
+<edge source="195522.BD01_0634" target="195522.BD01_2085">
+  <data key="d0">210.0</data>
+  <data key="d1">0.21</data>
+</edge>
+<edge source="195522.BD01_0474" target="195522.BD01_0929">
+  <data key="d0">156.0</data>
+  <data key="d1">0.156</data>
+</edge>
+<edge source="195522.BD01_0474" target="195522.BD01_1731">
+  <data key="d0">156.0</data>
+  <data key="d1">0.156</data>
+</edge>
+<edge source="195522.BD01_0474" target="195522.BD01_0571">
+  <data key="d0">190.0</data>
+  <data key="d1">0.19</data>
+</edge>
+<edge source="195522.BD01_0474" target="195522.BD01_0909">
+  <data key="d0">190.0</data>
+  <data key="d1">0.19</data>
+</edge>
+<edge source="195522.BD01_0474" target="195522.BD01_0957">
+  <data key="d0">190.0</data>
+  <data key="d1">0.19</data>
+</edge>
+<edge source="195522.BD01_0474" target="195522.BD01_0961">
+  <data key="d0">190.0</data>
+  <data key="d1">0.19</data>
+</edge>
+<edge source="195522.BD01_0474" target="195522.BD01_1154">
+  <data key="d0">190.0</data>
+  <data key="d1">0.19</data>
+</edge>
+<edge source="195522.BD01_0474" target="195522.BD01_1267">
+  <data key="d0">190.0</data>
+  <data key="d1">0.19</data>
+</edge>
+<edge source="195522.BD01_0474" target="195522.BD01_1335">
+  <data key="d0">190.0</data>
+  <data key="d1">0.19</data>
+</edge>
+<edge source="195522.BD01_0474" target="195522.BD01_1437">
+  <data key="d0">190.0</data>
+  <data key="d1">0.19</data>
+</edge>
+<edge source="195522.BD01_0474" target="195522.BD01_1975">
+  <data key="d0">190.0</data>
+  <data key="d1">0.19</data>
+</edge>
+<edge source="195522.BD01_0474" target="195522.BD01_2008">
+  <data key="d0">190.0</data>
+  <data key="d1">0.19</data>
+</edge>
+<edge source="195522.BD01_0929" target="195522.BD01_0200">
+  <data key="d0">169.0</data>
+  <data key="d1">0.169</data>
+</edge>
+<edge source="195522.BD01_0929" target="195522.BD01_0616">
+  <data key="d0">156.0</data>
+  <data key="d1">0.156</data>
+</edge>
+<edge source="195522.BD01_1731" target="195522.BD01_0200">
+  <data key="d0">169.0</data>
+  <data key="d1">0.169</data>
+</edge>
+<edge source="195522.BD01_1731" target="195522.BD01_0616">
+  <data key="d0">156.0</data>
+  <data key="d1">0.156</data>
+</edge>
+<edge source="195522.BD01_0477" target="195522.BD01_0571">
+  <data key="d0">186.0</data>
+  <data key="d1">0.186</data>
+</edge>
+<edge source="195522.BD01_0477" target="195522.BD01_0909">
+  <data key="d0">186.0</data>
+  <data key="d1">0.186</data>
+</edge>
+<edge source="195522.BD01_0477" target="195522.BD01_0957">
+  <data key="d0">186.0</data>
+  <data key="d1">0.186</data>
+</edge>
+<edge source="195522.BD01_0477" target="195522.BD01_0961">
+  <data key="d0">186.0</data>
+  <data key="d1">0.186</data>
+</edge>
+<edge source="195522.BD01_0477" target="195522.BD01_1154">
+  <data key="d0">186.0</data>
+  <data key="d1">0.186</data>
+</edge>
+<edge source="195522.BD01_0477" target="195522.BD01_1267">
+  <data key="d0">186.0</data>
+  <data key="d1">0.186</data>
+</edge>
+<edge source="195522.BD01_0477" target="195522.BD01_1335">
+  <data key="d0">186.0</data>
+  <data key="d1">0.186</data>
+</edge>
+<edge source="195522.BD01_0477" target="195522.BD01_1437">
+  <data key="d0">186.0</data>
+  <data key="d1">0.186</data>
+</edge>
+<edge source="195522.BD01_0477" target="195522.BD01_1864">
+  <data key="d0">172.0</data>
+  <data key="d1">0.172</data>
+</edge>
+<edge source="195522.BD01_0477" target="195522.BD01_1975">
+  <data key="d0">186.0</data>
+  <data key="d1">0.186</data>
+</edge>
+<edge source="195522.BD01_0477" target="195522.BD01_2008">
+  <data key="d0">186.0</data>
+  <data key="d1">0.186</data>
+</edge>
+<edge source="195522.BD01_0477" target="195522.BD01_2196">
+  <data key="d0">172.0</data>
+  <data key="d1">0.172</data>
+</edge>
+<edge source="195522.BD01_0552" target="195522.BD01_0829">
+  <data key="d0">102.0</data>
+  <data key="d1">0.102</data>
+</edge>
+<edge source="195522.BD01_0829" target="195522.BD01_2149">
+  <data key="d0">170.0</data>
+  <data key="d1">0.17</data>
+</edge>
+<edge source="195522.BD01_0571" target="195522.BD01_0932">
+  <data key="d0">165.0</data>
+  <data key="d1">0.165</data>
+</edge>
+<edge source="195522.BD01_0571" target="195522.BD01_2152">
+  <data key="d0">190.0</data>
+  <data key="d1">0.19</data>
+</edge>
+<edge source="195522.BD01_0571" target="195522.BD01_2154">
+  <data key="d0">193.0</data>
+  <data key="d1">0.193</data>
+</edge>
+<edge source="195522.BD01_0932" target="195522.BD01_0909">
+  <data key="d0">165.0</data>
+  <data key="d1">0.165</data>
+</edge>
+<edge source="195522.BD01_0932" target="195522.BD01_0957">
+  <data key="d0">165.0</data>
+  <data key="d1">0.165</data>
+</edge>
+<edge source="195522.BD01_0932" target="195522.BD01_0961">
+  <data key="d0">165.0</data>
+  <data key="d1">0.165</data>
+</edge>
+<edge source="195522.BD01_0932" target="195522.BD01_1154">
+  <data key="d0">165.0</data>
+  <data key="d1">0.165</data>
+</edge>
+<edge source="195522.BD01_0932" target="195522.BD01_1267">
+  <data key="d0">165.0</data>
+  <data key="d1">0.165</data>
+</edge>
+<edge source="195522.BD01_0932" target="195522.BD01_1335">
+  <data key="d0">165.0</data>
+  <data key="d1">0.165</data>
+</edge>
+<edge source="195522.BD01_0932" target="195522.BD01_1437">
+  <data key="d0">165.0</data>
+  <data key="d1">0.165</data>
+</edge>
+<edge source="195522.BD01_0932" target="195522.BD01_1975">
+  <data key="d0">165.0</data>
+  <data key="d1">0.165</data>
+</edge>
+<edge source="195522.BD01_0932" target="195522.BD01_2008">
+  <data key="d0">165.0</data>
+  <data key="d1">0.165</data>
+</edge>
+<edge source="195522.BD01_2152" target="195522.BD01_1715">
+  <data key="d0">150.0</data>
+  <data key="d1">0.15</data>
+</edge>
+<edge source="195522.BD01_2152" target="195522.BD01_0909">
+  <data key="d0">190.0</data>
+  <data key="d1">0.19</data>
+</edge>
+<edge source="195522.BD01_2152" target="195522.BD01_0957">
+  <data key="d0">190.0</data>
+  <data key="d1">0.19</data>
+</edge>
+<edge source="195522.BD01_2152" target="195522.BD01_0961">
+  <data key="d0">190.0</data>
+  <data key="d1">0.19</data>
+</edge>
+<edge source="195522.BD01_2152" target="195522.BD01_1154">
+  <data key="d0">190.0</data>
+  <data key="d1">0.19</data>
+</edge>
+<edge source="195522.BD01_2152" target="195522.BD01_1267">
+  <data key="d0">190.0</data>
+  <data key="d1">0.19</data>
+</edge>
+<edge source="195522.BD01_2152" target="195522.BD01_1335">
+  <data key="d0">190.0</data>
+  <data key="d1">0.19</data>
+</edge>
+<edge source="195522.BD01_2152" target="195522.BD01_1437">
+  <data key="d0">190.0</data>
+  <data key="d1">0.19</data>
+</edge>
+<edge source="195522.BD01_2152" target="195522.BD01_1975">
+  <data key="d0">190.0</data>
+  <data key="d1">0.19</data>
+</edge>
+<edge source="195522.BD01_2152" target="195522.BD01_2008">
+  <data key="d0">190.0</data>
+  <data key="d1">0.19</data>
+</edge>
+<edge source="195522.BD01_2154" target="195522.BD01_0909">
+  <data key="d0">193.0</data>
+  <data key="d1">0.193</data>
+</edge>
+<edge source="195522.BD01_2154" target="195522.BD01_0957">
+  <data key="d0">193.0</data>
+  <data key="d1">0.193</data>
+</edge>
+<edge source="195522.BD01_2154" target="195522.BD01_0961">
+  <data key="d0">193.0</data>
+  <data key="d1">0.193</data>
+</edge>
+<edge source="195522.BD01_2154" target="195522.BD01_1154">
+  <data key="d0">193.0</data>
+  <data key="d1">0.193</data>
+</edge>
+<edge source="195522.BD01_2154" target="195522.BD01_1267">
+  <data key="d0">193.0</data>
+  <data key="d1">0.193</data>
+</edge>
+<edge source="195522.BD01_2154" target="195522.BD01_1335">
+  <data key="d0">193.0</data>
+  <data key="d1">0.193</data>
+</edge>
+<edge source="195522.BD01_2154" target="195522.BD01_1437">
+  <data key="d0">193.0</data>
+  <data key="d1">0.193</data>
+</edge>
+<edge source="195522.BD01_2154" target="195522.BD01_1974">
+  <data key="d0">158.0</data>
+  <data key="d1">0.158</data>
+</edge>
+<edge source="195522.BD01_2154" target="195522.BD01_1975">
+  <data key="d0">193.0</data>
+  <data key="d1">0.193</data>
+</edge>
+<edge source="195522.BD01_2154" target="195522.BD01_2008">
+  <data key="d0">193.0</data>
+  <data key="d1">0.193</data>
+</edge>
+<edge source="195522.BD01_0604" target="195522.BD01_1570">
+  <data key="d0">317.0</data>
+  <data key="d1">0.317</data>
+</edge>
+<edge source="195522.BD01_0604" target="195522.BD01_1825">
+  <data key="d0">451.0</data>
+  <data key="d1">0.451</data>
+</edge>
+<edge source="195522.BD01_0604" target="195522.BD01_2130">
+  <data key="d0">610.0</data>
+  <data key="d1">0.61</data>
+</edge>
+<edge source="195522.BD01_0604" target="195522.BD01_1714">
+  <data key="d0">173.0</data>
+  <data key="d1">0.173</data>
+</edge>
+<edge source="195522.BD01_0604" target="195522.BD01_1244">
+  <data key="d0">532.0</data>
+  <data key="d1">0.532</data>
+</edge>
+<edge source="195522.BD01_0604" target="195522.BD01_1245">
+  <data key="d0">532.0</data>
+  <data key="d1">0.532</data>
+</edge>
+<edge source="195522.BD01_1570" target="195522.BD01_0186">
+  <data key="d0">420.0</data>
+  <data key="d1">0.42</data>
+</edge>
+<edge source="195522.BD01_1570" target="195522.BD01_0246">
+  <data key="d0">365.0</data>
+  <data key="d1">0.365</data>
+</edge>
+<edge source="195522.BD01_1570" target="195522.BD01_0316">
+  <data key="d0">202.0</data>
+  <data key="d1">0.202</data>
+</edge>
+<edge source="195522.BD01_1570" target="195522.BD01_0606">
+  <data key="d0">176.0</data>
+  <data key="d1">0.176</data>
+</edge>
+<edge source="195522.BD01_1570" target="195522.BD01_1244">
+  <data key="d0">293.0</data>
+  <data key="d1">0.293</data>
+</edge>
+<edge source="195522.BD01_1570" target="195522.BD01_1245">
+  <data key="d0">293.0</data>
+  <data key="d1">0.293</data>
+</edge>
+<edge source="195522.BD01_1570" target="195522.BD01_1825">
+  <data key="d0">483.0</data>
+  <data key="d1">0.483</data>
+</edge>
+<edge source="195522.BD01_1570" target="195522.BD01_2046">
+  <data key="d0">316.0</data>
+  <data key="d1">0.316</data>
+</edge>
+<edge source="195522.BD01_1570" target="195522.BD01_2130">
+  <data key="d0">464.0</data>
+  <data key="d1">0.464</data>
+</edge>
+<edge source="195522.BD01_1570" target="195522.BD01_2193">
+  <data key="d0">391.0</data>
+  <data key="d1">0.391</data>
+</edge>
+<edge source="195522.BD01_1570" target="195522.BD01_2195">
+  <data key="d0">394.0</data>
+  <data key="d1">0.394</data>
+</edge>
+<edge source="195522.BD01_1825" target="195522.BD01_2046">
+  <data key="d0">284.0</data>
+  <data key="d1">0.284</data>
+</edge>
+<edge source="195522.BD01_2130" target="195522.BD01_0004">
+  <data key="d0">185.0</data>
+  <data key="d1">0.185</data>
+</edge>
+<edge source="195522.BD01_2130" target="195522.BD01_1181">
+  <data key="d0">185.0</data>
+  <data key="d1">0.185</data>
+</edge>
+<edge source="195522.BD01_2130" target="195522.BD01_2046">
+  <data key="d0">355.0</data>
+  <data key="d1">0.355</data>
+</edge>
+<edge source="195522.BD01_2130" target="195522.BD01_2079">
+  <data key="d0">185.0</data>
+  <data key="d1">0.185</data>
+</edge>
+<edge source="195522.BD01_0612" target="195522.BD01_2156">
+  <data key="d0">150.0</data>
+  <data key="d1">0.15</data>
+</edge>
+<edge source="195522.BD01_0612" target="195522.BD01_1368">
+  <data key="d0">405.0</data>
+  <data key="d1">0.405</data>
+</edge>
+<edge source="195522.BD01_0612" target="195522.BD01_2080">
+  <data key="d0">450.0</data>
+  <data key="d1">0.45</data>
+</edge>
+<edge source="195522.BD01_0633" target="195522.BD01_2100">
+  <data key="d0">350.0</data>
+  <data key="d1">0.35</data>
+</edge>
+<edge source="195522.BD01_0633" target="195522.BD01_1714">
+  <data key="d0">144.0</data>
+  <data key="d1">0.144</data>
+</edge>
+<edge source="195522.BD01_0633" target="195522.BD01_1854">
+  <data key="d0">167.0</data>
+  <data key="d1">0.167</data>
+</edge>
+<edge source="195522.BD01_0633" target="195522.BD01_1104">
+  <data key="d0">162.0</data>
+  <data key="d1">0.162</data>
+</edge>
+<edge source="195522.BD01_0633" target="195522.BD01_1258">
+  <data key="d0">277.0</data>
+  <data key="d1">0.277</data>
+</edge>
+<edge source="195522.BD01_0633" target="195522.BD01_0266">
+  <data key="d0">350.0</data>
+  <data key="d1">0.35</data>
+</edge>
+<edge source="195522.BD01_0633" target="195522.BD01_2263">
+  <data key="d0">547.0</data>
+  <data key="d1">0.547</data>
+</edge>
+<edge source="195522.BD01_2100" target="195522.BD01_1714">
+  <data key="d0">307.0</data>
+  <data key="d1">0.307</data>
+</edge>
+<edge source="195522.BD01_1714" target="195522.BD01_0916">
+  <data key="d0">400.0</data>
+  <data key="d1">0.4</data>
+</edge>
+<edge source="195522.BD01_1714" target="195522.BD01_1854">
+  <data key="d0">194.0</data>
+  <data key="d1">0.194</data>
+</edge>
+<edge source="195522.BD01_1714" target="195522.BD01_1639">
+  <data key="d0">172.0</data>
+  <data key="d1">0.172</data>
+</edge>
+<edge source="195522.BD01_1714" target="195522.BD01_1624">
+  <data key="d0">164.0</data>
+  <data key="d1">0.164</data>
+</edge>
+<edge source="195522.BD01_1714" target="195522.BD01_1104">
+  <data key="d0">169.0</data>
+  <data key="d1">0.169</data>
+</edge>
+<edge source="195522.BD01_1714" target="195522.BD01_0266">
+  <data key="d0">307.0</data>
+  <data key="d1">0.307</data>
+</edge>
+<edge source="195522.BD01_1714" target="195522.BD01_0037">
+  <data key="d0">172.0</data>
+  <data key="d1">0.172</data>
+</edge>
+<edge source="195522.BD01_1854" target="195522.BD01_0963">
+  <data key="d0">227.0</data>
+  <data key="d1">0.227</data>
+</edge>
+<edge source="195522.BD01_1854" target="195522.BD01_1853">
+  <data key="d0">227.0</data>
+  <data key="d1">0.227</data>
+</edge>
+<edge source="195522.BD01_1104" target="195522.BD01_0043">
+  <data key="d0">183.0</data>
+  <data key="d1">0.183</data>
+</edge>
+<edge source="195522.BD01_1258" target="195522.BD01_0725">
+  <data key="d0">586.0</data>
+  <data key="d1">0.586</data>
+</edge>
+<edge source="195522.BD01_1258" target="195522.BD01_1729">
+  <data key="d0">162.0</data>
+  <data key="d1">0.162</data>
+</edge>
+<edge source="195522.BD01_1258" target="195522.BD01_1959">
+  <data key="d0">415.0</data>
+  <data key="d1">0.415</data>
+</edge>
+<edge source="195522.BD01_0645" target="195522.BD01_1162">
+  <data key="d0">700.0</data>
+  <data key="d1">0.7</data>
+</edge>
+<edge source="195522.BD01_0645" target="195522.BD01_1157">
+  <data key="d0">82.0</data>
+  <data key="d1">0.082</data>
+</edge>
+<edge source="195522.BD01_0645" target="195522.BD01_1161">
+  <data key="d0">730.0</data>
+  <data key="d1">0.73</data>
+</edge>
+<edge source="195522.BD01_0645" target="195522.BD01_1159">
+  <data key="d0">735.0</data>
+  <data key="d1">0.735</data>
+</edge>
+<edge source="195522.BD01_0645" target="195522.BD01_1165">
+  <data key="d0">700.0</data>
+  <data key="d1">0.7</data>
+</edge>
+<edge source="195522.BD01_1162" target="195522.BD01_1161">
+  <data key="d0">800.0</data>
+  <data key="d1">0.8</data>
+</edge>
+<edge source="195522.BD01_1162" target="195522.BD01_1584">
+  <data key="d0">700.0</data>
+  <data key="d1">0.7</data>
+</edge>
+<edge source="195522.BD01_1162" target="195522.BD01_1158">
+  <data key="d0">700.0</data>
+  <data key="d1">0.7</data>
+</edge>
+<edge source="195522.BD01_1162" target="195522.BD01_2124">
+  <data key="d0">700.0</data>
+  <data key="d1">0.7</data>
+</edge>
+<edge source="195522.BD01_1162" target="195522.BD01_1166">
+  <data key="d0">700.0</data>
+  <data key="d1">0.7</data>
+</edge>
+<edge source="195522.BD01_1162" target="195522.BD01_1365">
+  <data key="d0">700.0</data>
+  <data key="d1">0.7</data>
+</edge>
+<edge source="195522.BD01_1157" target="195522.BD01_1584">
+  <data key="d0">700.0</data>
+  <data key="d1">0.7</data>
+</edge>
+<edge source="195522.BD01_1157" target="195522.BD01_1158">
+  <data key="d0">700.0</data>
+  <data key="d1">0.7</data>
+</edge>
+<edge source="195522.BD01_1157" target="195522.BD01_2124">
+  <data key="d0">700.0</data>
+  <data key="d1">0.7</data>
+</edge>
+<edge source="195522.BD01_1157" target="195522.BD01_1161">
+  <data key="d0">700.0</data>
+  <data key="d1">0.7</data>
+</edge>
+<edge source="195522.BD01_1157" target="195522.BD01_1166">
+  <data key="d0">700.0</data>
+  <data key="d1">0.7</data>
+</edge>
+<edge source="195522.BD01_1157" target="195522.BD01_1365">
+  <data key="d0">700.0</data>
+  <data key="d1">0.7</data>
+</edge>
+<edge source="195522.BD01_1161" target="195522.BD01_1584">
+  <data key="d0">700.0</data>
+  <data key="d1">0.7</data>
+</edge>
+<edge source="195522.BD01_1161" target="195522.BD01_1158">
+  <data key="d0">700.0</data>
+  <data key="d1">0.7</data>
+</edge>
+<edge source="195522.BD01_1161" target="195522.BD01_1166">
+  <data key="d0">700.0</data>
+  <data key="d1">0.7</data>
+</edge>
+<edge source="195522.BD01_1161" target="195522.BD01_1365">
+  <data key="d0">700.0</data>
+  <data key="d1">0.7</data>
+</edge>
+<edge source="195522.BD01_1161" target="195522.BD01_2124">
+  <data key="d0">700.0</data>
+  <data key="d1">0.7</data>
+</edge>
+<edge source="195522.BD01_0648" target="195522.BD01_1425">
+  <data key="d0">169.0</data>
+  <data key="d1">0.169</data>
+</edge>
+<edge source="195522.BD01_0648" target="195522.BD01_2081">
+  <data key="d0">171.0</data>
+  <data key="d1">0.171</data>
+</edge>
+<edge source="195522.BD01_1425" target="195522.BD01_1295">
+  <data key="d0">169.0</data>
+  <data key="d1">0.169</data>
+</edge>
+<edge source="195522.BD01_2081" target="195522.BD01_0723">
+  <data key="d0">154.0</data>
+  <data key="d1">0.154</data>
+</edge>
+<edge source="195522.BD01_2081" target="195522.BD01_0823">
+  <data key="d0">154.0</data>
+  <data key="d1">0.154</data>
+</edge>
+<edge source="195522.BD01_2081" target="195522.BD01_0827">
+  <data key="d0">154.0</data>
+  <data key="d1">0.154</data>
+</edge>
+<edge source="195522.BD01_2081" target="195522.BD01_1078">
+  <data key="d0">154.0</data>
+  <data key="d1">0.154</data>
+</edge>
+<edge source="195522.BD01_2081" target="195522.BD01_1295">
+  <data key="d0">171.0</data>
+  <data key="d1">0.171</data>
+</edge>
+<edge source="195522.BD01_2081" target="195522.BD01_1721">
+  <data key="d0">154.0</data>
+  <data key="d1">0.154</data>
+</edge>
+<edge source="195522.BD01_0651" target="195522.BD01_1339">
+  <data key="d0">174.0</data>
+  <data key="d1">0.174</data>
+</edge>
+<edge source="195522.BD01_1926" target="195522.BD01_1635">
+  <data key="d0">150.0</data>
+  <data key="d1">0.15</data>
+</edge>
+<edge source="195522.BD01_1926" target="195522.BD01_1774">
+  <data key="d0">150.0</data>
+  <data key="d1">0.15</data>
+</edge>
+<edge source="195522.BD01_1926" target="195522.BD01_1953">
+  <data key="d0">150.0</data>
+  <data key="d1">0.15</data>
+</edge>
+<edge source="195522.BD01_0725" target="195522.BD01_1359">
+  <data key="d0">234.0</data>
+  <data key="d1">0.234</data>
+</edge>
+<edge source="195522.BD01_0725" target="195522.BD01_0893">
+  <data key="d0">234.0</data>
+  <data key="d1">0.234</data>
+</edge>
+<edge source="195522.BD01_0725" target="195522.BD01_0987">
+  <data key="d0">234.0</data>
+  <data key="d1">0.234</data>
+</edge>
+<edge source="195522.BD01_0725" target="195522.BD01_1933">
+  <data key="d0">234.0</data>
+  <data key="d1">0.234</data>
+</edge>
+<edge source="195522.BD01_0725" target="195522.BD01_2085">
+  <data key="d0">234.0</data>
+  <data key="d1">0.234</data>
+</edge>
+<edge source="195522.BD01_1014" target="195522.BD01_1033">
+  <data key="d0">216.0</data>
+  <data key="d1">0.216</data>
+</edge>
+<edge source="195522.BD01_1254" target="195522.BD01_0410">
+  <data key="d0">178.0</data>
+  <data key="d1">0.178</data>
+</edge>
+<edge source="195522.BD01_1254" target="195522.BD01_0608">
+  <data key="d0">178.0</data>
+  <data key="d1">0.178</data>
+</edge>
+<edge source="195522.BD01_1254" target="195522.BD01_2046">
+  <data key="d0">201.0</data>
+  <data key="d1">0.201</data>
+</edge>
+<edge source="195522.BD01_1254" target="195522.BD01_0916">
+  <data key="d0">164.0</data>
+  <data key="d1">0.164</data>
+</edge>
+<edge source="195522.BD01_1254" target="195522.BD01_1721">
+  <data key="d0">250.0</data>
+  <data key="d1">0.25</data>
+</edge>
+<edge source="195522.BD01_1339" target="195522.BD01_1984">
+  <data key="d0">174.0</data>
+  <data key="d1">0.174</data>
+</edge>
+<edge source="195522.BD01_1821" target="195522.BD01_0410">
+  <data key="d0">194.0</data>
+  <data key="d1">0.194</data>
+</edge>
+<edge source="195522.BD01_1821" target="195522.BD01_0608">
+  <data key="d0">178.0</data>
+  <data key="d1">0.178</data>
+</edge>
+<edge source="195522.BD01_1821" target="195522.BD01_2046">
+  <data key="d0">201.0</data>
+  <data key="d1">0.201</data>
+</edge>
+<edge source="195522.BD01_1821" target="195522.BD01_0916">
+  <data key="d0">164.0</data>
+  <data key="d1">0.164</data>
+</edge>
+<edge source="195522.BD01_1821" target="195522.BD01_1721">
+  <data key="d0">250.0</data>
+  <data key="d1">0.25</data>
+</edge>
+<edge source="195522.BD01_2195" target="195522.BD01_1715">
+  <data key="d0">206.0</data>
+  <data key="d1">0.206</data>
+</edge>
+<edge source="195522.BD01_0857" target="195522.BD01_1715">
+  <data key="d0">115.0</data>
+  <data key="d1">0.115</data>
+</edge>
+<edge source="195522.BD01_1715" target="195522.BD01_1637">
+  <data key="d0">167.0</data>
+  <data key="d1">0.167</data>
+</edge>
+<edge source="195522.BD01_0933" target="195522.BD01_1368">
+  <data key="d0">196.0</data>
+  <data key="d1">0.196</data>
+</edge>
+<edge source="195522.BD01_0933" target="195522.BD01_1289">
+  <data key="d0">710.0</data>
+  <data key="d1">0.71</data>
+</edge>
+<edge source="195522.BD01_1368" target="195522.BD01_0522">
+  <data key="d0">339.0</data>
+  <data key="d1">0.339</data>
+</edge>
+<edge source="195522.BD01_0963" target="195522.BD01_1856">
+  <data key="d0">800.0</data>
+  <data key="d1">0.8</data>
+</edge>
+<edge source="195522.BD01_1856" target="195522.BD01_1853">
+  <data key="d0">800.0</data>
+  <data key="d1">0.8</data>
+</edge>
+<edge source="195522.BD01_1584" target="195522.BD01_1159">
+  <data key="d0">769.0</data>
+  <data key="d1">0.769</data>
+</edge>
+<edge source="195522.BD01_1584" target="195522.BD01_1165">
+  <data key="d0">700.0</data>
+  <data key="d1">0.7</data>
+</edge>
+<edge source="195522.BD01_1158" target="195522.BD01_1159">
+  <data key="d0">740.0</data>
+  <data key="d1">0.74</data>
+</edge>
+<edge source="195522.BD01_1158" target="195522.BD01_1165">
+  <data key="d0">700.0</data>
+  <data key="d1">0.7</data>
+</edge>
+<edge source="195522.BD01_2124" target="195522.BD01_1159">
+  <data key="d0">769.0</data>
+  <data key="d1">0.769</data>
+</edge>
+<edge source="195522.BD01_2124" target="195522.BD01_1165">
+  <data key="d0">700.0</data>
+  <data key="d1">0.7</data>
+</edge>
+<edge source="195522.BD01_1166" target="195522.BD01_1159">
+  <data key="d0">769.0</data>
+  <data key="d1">0.769</data>
+</edge>
+<edge source="195522.BD01_1166" target="195522.BD01_1165">
+  <data key="d0">700.0</data>
+  <data key="d1">0.7</data>
+</edge>
+<edge source="195522.BD01_1365" target="195522.BD01_1159">
+  <data key="d0">735.0</data>
+  <data key="d1">0.735</data>
+</edge>
+<edge source="195522.BD01_1365" target="195522.BD01_1165">
+  <data key="d0">700.0</data>
+  <data key="d1">0.7</data>
+</edge>
+<edge source="195522.BD01_1159" target="195522.BD01_1404">
+  <data key="d0">153.0</data>
+  <data key="d1">0.153</data>
+</edge>
+<edge source="195522.BD01_0608" target="195522.BD01_2208">
+  <data key="d0">316.0</data>
+  <data key="d1">0.316</data>
+</edge>
+<edge source="195522.BD01_1789" target="195522.BD01_0097">
+  <data key="d0">234.0</data>
+  <data key="d1">0.234</data>
+</edge>
+<edge source="195522.BD01_0097" target="195522.BD01_2053">
+  <data key="d0">150.0</data>
+  <data key="d1">0.15</data>
+</edge>
+</graph></graphml>

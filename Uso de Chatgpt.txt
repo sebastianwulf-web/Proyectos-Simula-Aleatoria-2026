@@ -1,0 +1,1 @@
+Se utilizó ChatGpt sobre todo en la generación de gráficos, asi como la lectura de los archivos en formato Mitab, XML y gz de bases de datos de IntAct y STRING. Además, se utilizó para corrección de cógido en el cálculo incremental de graphlets.

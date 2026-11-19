@@ -1,0 +1,730 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="edge" attr.name="prob" attr.type="double"/>
+<graph edgedefault="undirected"><node id="uniprotkb:P26522"/>
+<node id="uniprotkb:P72714"/>
+<node id="uniprotkb:P19045"/>
+<node id="uniprotkb:P26523"/>
+<node id="uniprotkb:P19125"/>
+<node id="uniprotkb:P26525"/>
+<node id="uniprotkb:P74069"/>
+<node id="uniprotkb:P74338"/>
+<node id="uniprotkb:Q55429"/>
+<node id="uniprotkb:P27724"/>
+<node id="uniprotkb:P32421"/>
+<node id="uniprotkb:P19050"/>
+<node id="uniprotkb:Q55559"/>
+<node id="uniprotkb:P73456"/>
+<node id="uniprotkb:P29254"/>
+<node id="uniprotkb:P29255"/>
+<node id="uniprotkb:P19569"/>
+<node id="uniprotkb:P29256"/>
+<node id="uniprotkb:P37277"/>
+<node id="uniprotkb:P16033"/>
+<node id="uniprotkb:P05429"/>
+<node id="uniprotkb:P09193"/>
+<node id="uniprotkb:P09192"/>
+<node id="uniprotkb:Q57038"/>
+<node id="uniprotkb:P26287"/>
+<node id="uniprotkb:P27589"/>
+<node id="uniprotkb:P27179"/>
+<node id="uniprotkb:P26527"/>
+<node id="uniprotkb:P27180"/>
+<node id="uniprotkb:P26533"/>
+<node id="uniprotkb:P27183"/>
+<node id="uniprotkb:P27181"/>
+<node id="uniprotkb:P17253"/>
+<node id="uniprotkb:P73394"/>
+<node id="uniprotkb:P73395"/>
+<node id="uniprotkb:P73393"/>
+<node id="uniprotkb:P73392"/>
+<node id="uniprotkb:Q01951"/>
+<node id="uniprotkb:Q54715"/>
+<node id="uniprotkb:Q54714"/>
+<node id="uniprotkb:Q55274"/>
+<node id="uniprotkb:P42352"/>
+<node id="uniprotkb:P73308"/>
+<node id="uniprotkb:P27372"/>
+<node id="uniprotkb:P74771"/>
+<node id="uniprotkb:P26524"/>
+<node id="uniprotkb:P74367"/>
+<node id="uniprotkb:Q55013"/>
+<node id="uniprotkb:Q55332"/>
+<node id="uniprotkb:P10549"/>
+<node id="uniprotkb:P73048"/>
+<node id="uniprotkb:Q55552"/>
+<node id="uniprotkb:Q55700"/>
+<node id="uniprotkb:P74082"/>
+<node id="uniprotkb:Q59977"/>
+<node id="uniprotkb:P74145"/>
+<node id="uniprotkb:P73443"/>
+<node id="uniprotkb:P72991"/>
+<node id="uniprotkb:P73956"/>
+<node id="uniprotkb:P09190"/>
+<node id="uniprotkb:P14835"/>
+<node id="uniprotkb:P74787"/>
+<node id="uniprotkb:Q55354"/>
+<node id="uniprotkb:Q55356"/>
+<node id="uniprotkb:P73528"/>
+<node id="uniprotkb:P73070"/>
+<node id="uniprotkb:P73676"/>
+<node id="uniprotkb:P09191"/>
+<node id="uniprotkb:P72701"/>
+<node id="uniprotkb:Q54697"/>
+<node id="uniprotkb:P15819"/>
+<node id="uniprotkb:P73488"/>
+<node id="uniprotkb:P72575"/>
+<node id="uniprotkb:P73091"/>
+<node id="uniprotkb:P07826"/>
+<node id="uniprotkb:P74596"/>
+<node id="uniprotkb:P72742"/>
+<node id="uniprotkb:Q55168"/>
+<node id="uniprotkb:Q55169"/>
+<node id="uniprotkb:P73213"/>
+<node id="uniprotkb:P73241"/>
+<node id="uniprotkb:P74512"/>
+<node id="uniprotkb:P72586"/>
+<node id="uniprotkb:P52231"/>
+<node id="uniprotkb:P73314"/>
+<node id="uniprotkb:P55038"/>
+<node id="uniprotkb:Q05972"/>
+<node id="uniprotkb:Q55522"/>
+<node id="uniprotkb:P28371"/>
+<node id="uniprotkb:P52981"/>
+<node id="uniprotkb:P74643"/>
+<node id="uniprotkb:P54205"/>
+<node id="uniprotkb:P72623"/>
+<node id="uniprotkb:P77973"/>
+<node id="uniprotkb:P74227"/>
+<node id="uniprotkb:P55037"/>
+<node id="uniprotkb:P52415"/>
+<node id="uniprotkb:P74729"/>
+<node id="uniprotkb:P77969"/>
+<node id="uniprotkb:P73829"/>
+<node id="uniprotkb:P73728"/>
+<node id="uniprotkb:Q01950"/>
+<node id="uniprotkb:P73334"/>
+<node id="uniprotkb:P77965"/>
+<node id="uniprotkb:Q55544"/>
+<node id="uniprotkb:P72854"/>
+<node id="uniprotkb:P72758"/>
+<node id="uniprotkb:P74241"/>
+<node id="uniprotkb:P73263"/>
+<node id="uniprotkb:P73489"/>
+<node id="uniprotkb:P73348"/>
+<node id="uniprotkb:Q01952"/>
+<node id="uniprotkb:Q55781"/>
+<node id="uniprotkb:Q55389"/>
+<node id="uniprotkb:P27320"/>
+<node id="uniprotkb:P32422"/>
+<node id="uniprotkb:P12975"/>
+<node id="uniprotkb:P73148"/>
+<node id="uniprotkb:Q55247"/>
+<node id="uniprotkb:P52232"/>
+<node id="uniprotkb:P37101"/>
+<node id="uniprotkb:P80505"/>
+<node id="uniprotkb:P73530"/>
+<node id="uniprotkb:P73546"/>
+<node id="uniprotkb:P74421"/>
+<node id="uniprotkb:P73282"/>
+<node id="uniprotkb:P22034"/>
+<node id="uniprotkb:P73007"/>
+<node id="uniprotkb:Q55664"/>
+<node id="uniprotkb:P74510"/>
+<node id="uniprotkb:Q55154"/>
+<node id="uniprotkb:P73257"/>
+<node id="uniprotkb:P73606"/>
+<node id="uniprotkb:P73911"/>
+<node id="uniprotkb:P74295"/>
+<node id="uniprotkb:P74294"/>
+<node id="uniprotkb:Q54735"/>
+<node id="uniprotkb:P72760"/>
+<node id="uniprotkb:P72761"/>
+<node id="uniprotkb:P73407"/>
+<node id="uniprotkb:P72759"/>
+<node id="uniprotkb:P72757"/>
+<node id="uniprotkb:P54206"/>
+<node id="uniprotkb:P74216"/>
+<node id="uniprotkb:P73457"/>
+<node id="uniprotkb:P73218"/>
+<node id="uniprotkb:P73117"/>
+<node id="uniprotkb:Q55683"/>
+<node id="uniprotkb:P74180"/>
+<node id="uniprotkb:P73376"/>
+<node id="uniprotkb:P73081"/>
+<node id="uniprotkb:P72719"/>
+<node id="uniprotkb:P72697"/>
+<node id="uniprotkb:Q55624"/>
+<edge source="uniprotkb:P26522" target="uniprotkb:P72714">
+  <data key="d0">0.4</data>
+</edge>
+<edge source="uniprotkb:P26522" target="uniprotkb:P19045">
+  <data key="d0">0.4</data>
+</edge>
+<edge source="uniprotkb:P26522" target="uniprotkb:P26523">
+  <data key="d0">0.4</data>
+</edge>
+<edge source="uniprotkb:P26522" target="uniprotkb:P19125">
+  <data key="d0">0.4</data>
+</edge>
+<edge source="uniprotkb:P26522" target="uniprotkb:P27724">
+  <data key="d0">0.4</data>
+</edge>
+<edge source="uniprotkb:P72714" target="uniprotkb:P19125">
+  <data key="d0">0.4</data>
+</edge>
+<edge source="uniprotkb:P72714" target="uniprotkb:P19045">
+  <data key="d0">0.4</data>
+</edge>
+<edge source="uniprotkb:P72714" target="uniprotkb:P26523">
+  <data key="d0">0.4</data>
+</edge>
+<edge source="uniprotkb:P72714" target="uniprotkb:P27724">
+  <data key="d0">0.4</data>
+</edge>
+<edge source="uniprotkb:P19045" target="uniprotkb:P19125">
+  <data key="d0">0.4</data>
+</edge>
+<edge source="uniprotkb:P26523" target="uniprotkb:P19125">
+  <data key="d0">0.4</data>
+</edge>
+<edge source="uniprotkb:P26523" target="uniprotkb:P27724">
+  <data key="d0">0.4</data>
+</edge>
+<edge source="uniprotkb:P19125" target="uniprotkb:P26525">
+  <data key="d0">0.4</data>
+</edge>
+<edge source="uniprotkb:P19125" target="uniprotkb:P74069">
+  <data key="d0">0.4</data>
+</edge>
+<edge source="uniprotkb:P19125" target="uniprotkb:P74338">
+  <data key="d0">0.4</data>
+</edge>
+<edge source="uniprotkb:P19125" target="uniprotkb:Q55429">
+  <data key="d0">0.4</data>
+</edge>
+<edge source="uniprotkb:P19125" target="uniprotkb:P27724">
+  <data key="d0">0.7</data>
+</edge>
+<edge source="uniprotkb:P19125" target="uniprotkb:P32421">
+  <data key="d0">0.4</data>
+</edge>
+<edge source="uniprotkb:P19125" target="uniprotkb:P19050">
+  <data key="d0">0.56</data>
+</edge>
+<edge source="uniprotkb:P26525" target="uniprotkb:P27724">
+  <data key="d0">0.59</data>
+</edge>
+<edge source="uniprotkb:P26525" target="uniprotkb:P19050">
+  <data key="d0">0.35</data>
+</edge>
+<edge source="uniprotkb:P74069" target="uniprotkb:P27724">
+  <data key="d0">0.4</data>
+</edge>
+<edge source="uniprotkb:P74338" target="uniprotkb:P19050">
+  <data key="d0">0.35</data>
+</edge>
+<edge source="uniprotkb:P74338" target="uniprotkb:P27724">
+  <data key="d0">0.4</data>
+</edge>
+<edge source="uniprotkb:Q55429" target="uniprotkb:P27724">
+  <data key="d0">0.4</data>
+</edge>
+<edge source="uniprotkb:P27724" target="uniprotkb:P19050">
+  <data key="d0">0.69</data>
+</edge>
+<edge source="uniprotkb:P27724" target="uniprotkb:P27372">
+  <data key="d0">0.4</data>
+</edge>
+<edge source="uniprotkb:P27724" target="uniprotkb:P74771">
+  <data key="d0">0.4</data>
+</edge>
+<edge source="uniprotkb:P27724" target="uniprotkb:P26524">
+  <data key="d0">0.4</data>
+</edge>
+<edge source="uniprotkb:P27724" target="uniprotkb:P32421">
+  <data key="d0">0.4</data>
+</edge>
+<edge source="uniprotkb:P19050" target="uniprotkb:P42352">
+  <data key="d0">0.35</data>
+</edge>
+<edge source="uniprotkb:P19050" target="uniprotkb:P73308">
+  <data key="d0">0.35</data>
+</edge>
+<edge source="uniprotkb:Q55559" target="uniprotkb:P73456">
+  <data key="d0">0.51</data>
+</edge>
+<edge source="uniprotkb:Q55559" target="uniprotkb:P73117">
+  <data key="d0">0.55</data>
+</edge>
+<edge source="uniprotkb:Q55559" target="uniprotkb:P73457">
+  <data key="d0">0.55</data>
+</edge>
+<edge source="uniprotkb:P73456" target="uniprotkb:P73376">
+  <data key="d0">0.4</data>
+</edge>
+<edge source="uniprotkb:P73456" target="uniprotkb:P73081">
+  <data key="d0">0.4</data>
+</edge>
+<edge source="uniprotkb:P29254" target="uniprotkb:P29255">
+  <data key="d0">0.59</data>
+</edge>
+<edge source="uniprotkb:P29254" target="uniprotkb:P19569">
+  <data key="d0">0.59</data>
+</edge>
+<edge source="uniprotkb:P29254" target="uniprotkb:P29256">
+  <data key="d0">0.59</data>
+</edge>
+<edge source="uniprotkb:P29254" target="uniprotkb:P37277">
+  <data key="d0">0.59</data>
+</edge>
+<edge source="uniprotkb:P29254" target="uniprotkb:Q55274">
+  <data key="d0">0.64</data>
+</edge>
+<edge source="uniprotkb:P29255" target="uniprotkb:Q55274">
+  <data key="d0">0.64</data>
+</edge>
+<edge source="uniprotkb:P19569" target="uniprotkb:Q55274">
+  <data key="d0">0.64</data>
+</edge>
+<edge source="uniprotkb:P19569" target="uniprotkb:P27320">
+  <data key="d0">0.57</data>
+</edge>
+<edge source="uniprotkb:P29256" target="uniprotkb:Q55274">
+  <data key="d0">0.64</data>
+</edge>
+<edge source="uniprotkb:P37277" target="uniprotkb:Q55274">
+  <data key="d0">0.64</data>
+</edge>
+<edge source="uniprotkb:P16033" target="uniprotkb:P05429">
+  <data key="d0">0.77</data>
+</edge>
+<edge source="uniprotkb:P16033" target="uniprotkb:P09193">
+  <data key="d0">0.7</data>
+</edge>
+<edge source="uniprotkb:P16033" target="uniprotkb:P09192">
+  <data key="d0">0.7</data>
+</edge>
+<edge source="uniprotkb:P05429" target="uniprotkb:P74367">
+  <data key="d0">0.35</data>
+</edge>
+<edge source="uniprotkb:P05429" target="uniprotkb:Q55013">
+  <data key="d0">0.35</data>
+</edge>
+<edge source="uniprotkb:P05429" target="uniprotkb:P09192">
+  <data key="d0">0.35</data>
+</edge>
+<edge source="uniprotkb:P05429" target="uniprotkb:Q55332">
+  <data key="d0">0.35</data>
+</edge>
+<edge source="uniprotkb:P05429" target="uniprotkb:P10549">
+  <data key="d0">0.35</data>
+</edge>
+<edge source="uniprotkb:P05429" target="uniprotkb:P09193">
+  <data key="d0">0.35</data>
+</edge>
+<edge source="uniprotkb:P05429" target="uniprotkb:P73048">
+  <data key="d0">0.35</data>
+</edge>
+<edge source="uniprotkb:P05429" target="uniprotkb:Q55552">
+  <data key="d0">0.35</data>
+</edge>
+<edge source="uniprotkb:P05429" target="uniprotkb:Q55700">
+  <data key="d0">0.35</data>
+</edge>
+<edge source="uniprotkb:P05429" target="uniprotkb:P74082">
+  <data key="d0">0.35</data>
+</edge>
+<edge source="uniprotkb:P05429" target="uniprotkb:Q59977">
+  <data key="d0">0.35</data>
+</edge>
+<edge source="uniprotkb:P05429" target="uniprotkb:P74145">
+  <data key="d0">0.35</data>
+</edge>
+<edge source="uniprotkb:P05429" target="uniprotkb:P73443">
+  <data key="d0">0.35</data>
+</edge>
+<edge source="uniprotkb:P05429" target="uniprotkb:P72991">
+  <data key="d0">0.35</data>
+</edge>
+<edge source="uniprotkb:P05429" target="uniprotkb:P73956">
+  <data key="d0">0.35</data>
+</edge>
+<edge source="uniprotkb:P05429" target="uniprotkb:P09190">
+  <data key="d0">0.35</data>
+</edge>
+<edge source="uniprotkb:P05429" target="uniprotkb:P14835">
+  <data key="d0">0.35</data>
+</edge>
+<edge source="uniprotkb:P05429" target="uniprotkb:P74787">
+  <data key="d0">0.35</data>
+</edge>
+<edge source="uniprotkb:P05429" target="uniprotkb:Q55354">
+  <data key="d0">0.35</data>
+</edge>
+<edge source="uniprotkb:P05429" target="uniprotkb:Q55356">
+  <data key="d0">0.35</data>
+</edge>
+<edge source="uniprotkb:P05429" target="uniprotkb:P73528">
+  <data key="d0">0.35</data>
+</edge>
+<edge source="uniprotkb:P05429" target="uniprotkb:P73070">
+  <data key="d0">0.35</data>
+</edge>
+<edge source="uniprotkb:P05429" target="uniprotkb:P73676">
+  <data key="d0">0.35</data>
+</edge>
+<edge source="uniprotkb:P05429" target="uniprotkb:P09191">
+  <data key="d0">0.35</data>
+</edge>
+<edge source="uniprotkb:P05429" target="uniprotkb:P72701">
+  <data key="d0">0.35</data>
+</edge>
+<edge source="uniprotkb:P05429" target="uniprotkb:Q54697">
+  <data key="d0">0.35</data>
+</edge>
+<edge source="uniprotkb:P05429" target="uniprotkb:P15819">
+  <data key="d0">0.35</data>
+</edge>
+<edge source="uniprotkb:P05429" target="uniprotkb:P73488">
+  <data key="d0">0.35</data>
+</edge>
+<edge source="uniprotkb:P05429" target="uniprotkb:P72575">
+  <data key="d0">0.35</data>
+</edge>
+<edge source="uniprotkb:Q57038" target="uniprotkb:P26287">
+  <data key="d0">0.4</data>
+</edge>
+<edge source="uniprotkb:Q57038" target="uniprotkb:P27589">
+  <data key="d0">0.4</data>
+</edge>
+<edge source="uniprotkb:P27179" target="uniprotkb:P26527">
+  <data key="d0">0.59</data>
+</edge>
+<edge source="uniprotkb:P27179" target="uniprotkb:P27180">
+  <data key="d0">0.59</data>
+</edge>
+<edge source="uniprotkb:P27179" target="uniprotkb:P26533">
+  <data key="d0">0.59</data>
+</edge>
+<edge source="uniprotkb:P27179" target="uniprotkb:P27183">
+  <data key="d0">0.59</data>
+</edge>
+<edge source="uniprotkb:P27179" target="uniprotkb:P27181">
+  <data key="d0">0.59</data>
+</edge>
+<edge source="uniprotkb:P27179" target="uniprotkb:P17253">
+  <data key="d0">0.59</data>
+</edge>
+<edge source="uniprotkb:P73394" target="uniprotkb:P73395">
+  <data key="d0">0.4</data>
+</edge>
+<edge source="uniprotkb:P73394" target="uniprotkb:P73393">
+  <data key="d0">0.4</data>
+</edge>
+<edge source="uniprotkb:P73395" target="uniprotkb:P73393">
+  <data key="d0">0.4</data>
+</edge>
+<edge source="uniprotkb:P73393" target="uniprotkb:P73392">
+  <data key="d0">0.4</data>
+</edge>
+<edge source="uniprotkb:Q01951" target="uniprotkb:Q54715">
+  <data key="d0">0.4</data>
+</edge>
+<edge source="uniprotkb:Q01951" target="uniprotkb:Q54714">
+  <data key="d0">0.4</data>
+</edge>
+<edge source="uniprotkb:Q54714" target="uniprotkb:P73263">
+  <data key="d0">0.44</data>
+</edge>
+<edge source="uniprotkb:Q54714" target="uniprotkb:P52231">
+  <data key="d0">0.53</data>
+</edge>
+<edge source="uniprotkb:P73443" target="uniprotkb:P52232">
+  <data key="d0">0.35</data>
+</edge>
+<edge source="uniprotkb:P73443" target="uniprotkb:P52231">
+  <data key="d0">0.35</data>
+</edge>
+<edge source="uniprotkb:P73091" target="uniprotkb:P07826">
+  <data key="d0">0.37</data>
+</edge>
+<edge source="uniprotkb:P74596" target="uniprotkb:P72742">
+  <data key="d0">0.79</data>
+</edge>
+<edge source="uniprotkb:Q55168" target="uniprotkb:Q55169">
+  <data key="d0">0.62</data>
+</edge>
+<edge source="uniprotkb:P73213" target="uniprotkb:P73241">
+  <data key="d0">0.69</data>
+</edge>
+<edge source="uniprotkb:P73213" target="uniprotkb:P74512">
+  <data key="d0">0.65</data>
+</edge>
+<edge source="uniprotkb:P72586" target="uniprotkb:P52231">
+  <data key="d0">0.59</data>
+</edge>
+<edge source="uniprotkb:P72586" target="uniprotkb:P52232">
+  <data key="d0">0.35</data>
+</edge>
+<edge source="uniprotkb:P72586" target="uniprotkb:P73263">
+  <data key="d0">0.35</data>
+</edge>
+<edge source="uniprotkb:P52231" target="uniprotkb:P73314">
+  <data key="d0">0.69</data>
+</edge>
+<edge source="uniprotkb:P52231" target="uniprotkb:P55038">
+  <data key="d0">0.44</data>
+</edge>
+<edge source="uniprotkb:P52231" target="uniprotkb:Q05972">
+  <data key="d0">0.59</data>
+</edge>
+<edge source="uniprotkb:P52231" target="uniprotkb:Q55522">
+  <data key="d0">0.44</data>
+</edge>
+<edge source="uniprotkb:P52231" target="uniprotkb:P28371">
+  <data key="d0">0.59</data>
+</edge>
+<edge source="uniprotkb:P52231" target="uniprotkb:P52981">
+  <data key="d0">0.44</data>
+</edge>
+<edge source="uniprotkb:P52231" target="uniprotkb:P74643">
+  <data key="d0">0.59</data>
+</edge>
+<edge source="uniprotkb:P52231" target="uniprotkb:P54205">
+  <data key="d0">0.59</data>
+</edge>
+<edge source="uniprotkb:P52231" target="uniprotkb:P72623">
+  <data key="d0">0.44</data>
+</edge>
+<edge source="uniprotkb:P52231" target="uniprotkb:P77973">
+  <data key="d0">0.59</data>
+</edge>
+<edge source="uniprotkb:P52231" target="uniprotkb:P74227">
+  <data key="d0">0.69</data>
+</edge>
+<edge source="uniprotkb:P52231" target="uniprotkb:P55037">
+  <data key="d0">0.44</data>
+</edge>
+<edge source="uniprotkb:P52231" target="uniprotkb:P52415">
+  <data key="d0">0.44</data>
+</edge>
+<edge source="uniprotkb:P52231" target="uniprotkb:P74729">
+  <data key="d0">0.44</data>
+</edge>
+<edge source="uniprotkb:P52231" target="uniprotkb:P77969">
+  <data key="d0">0.44</data>
+</edge>
+<edge source="uniprotkb:P52231" target="uniprotkb:P73829">
+  <data key="d0">0.44</data>
+</edge>
+<edge source="uniprotkb:P52231" target="uniprotkb:P73728">
+  <data key="d0">0.7</data>
+</edge>
+<edge source="uniprotkb:P52231" target="uniprotkb:Q01950">
+  <data key="d0">0.44</data>
+</edge>
+<edge source="uniprotkb:P52231" target="uniprotkb:P73334">
+  <data key="d0">0.44</data>
+</edge>
+<edge source="uniprotkb:P52231" target="uniprotkb:P77965">
+  <data key="d0">0.44</data>
+</edge>
+<edge source="uniprotkb:P52231" target="uniprotkb:Q55544">
+  <data key="d0">0.59</data>
+</edge>
+<edge source="uniprotkb:P52231" target="uniprotkb:P72854">
+  <data key="d0">0.59</data>
+</edge>
+<edge source="uniprotkb:P52231" target="uniprotkb:P72758">
+  <data key="d0">0.59</data>
+</edge>
+<edge source="uniprotkb:P52231" target="uniprotkb:P74241">
+  <data key="d0">0.44</data>
+</edge>
+<edge source="uniprotkb:P52231" target="uniprotkb:P73546">
+  <data key="d0">0.35</data>
+</edge>
+<edge source="uniprotkb:P52231" target="uniprotkb:P73348">
+  <data key="d0">0.67</data>
+</edge>
+<edge source="uniprotkb:P52231" target="uniprotkb:P74421">
+  <data key="d0">0.35</data>
+</edge>
+<edge source="uniprotkb:P52231" target="uniprotkb:P73530">
+  <data key="d0">0.35</data>
+</edge>
+<edge source="uniprotkb:P52231" target="uniprotkb:P73282">
+  <data key="d0">0.35</data>
+</edge>
+<edge source="uniprotkb:P52231" target="uniprotkb:P22034">
+  <data key="d0">0.35</data>
+</edge>
+<edge source="uniprotkb:P52231" target="uniprotkb:P37101">
+  <data key="d0">0.53</data>
+</edge>
+<edge source="uniprotkb:P52231" target="uniprotkb:P73007">
+  <data key="d0">0.35</data>
+</edge>
+<edge source="uniprotkb:P52231" target="uniprotkb:Q55664">
+  <data key="d0">0.35</data>
+</edge>
+<edge source="uniprotkb:P52231" target="uniprotkb:P74510">
+  <data key="d0">0.53</data>
+</edge>
+<edge source="uniprotkb:P52231" target="uniprotkb:Q55154">
+  <data key="d0">0.35</data>
+</edge>
+<edge source="uniprotkb:P52231" target="uniprotkb:P73257">
+  <data key="d0">0.35</data>
+</edge>
+<edge source="uniprotkb:P52231" target="uniprotkb:P73606">
+  <data key="d0">0.35</data>
+</edge>
+<edge source="uniprotkb:P52231" target="uniprotkb:P80505">
+  <data key="d0">0.53</data>
+</edge>
+<edge source="uniprotkb:P52231" target="uniprotkb:P73911">
+  <data key="d0">0.35</data>
+</edge>
+<edge source="uniprotkb:P52231" target="uniprotkb:P72719">
+  <data key="d0">0.4</data>
+</edge>
+<edge source="uniprotkb:P52231" target="uniprotkb:P72697">
+  <data key="d0">0.4</data>
+</edge>
+<edge source="uniprotkb:P52231" target="uniprotkb:Q55624">
+  <data key="d0">0.4</data>
+</edge>
+<edge source="uniprotkb:P28371" target="uniprotkb:P52232">
+  <data key="d0">0.35</data>
+</edge>
+<edge source="uniprotkb:P28371" target="uniprotkb:P73263">
+  <data key="d0">0.35</data>
+</edge>
+<edge source="uniprotkb:P74643" target="uniprotkb:P52232">
+  <data key="d0">0.35</data>
+</edge>
+<edge source="uniprotkb:P74643" target="uniprotkb:P73263">
+  <data key="d0">0.35</data>
+</edge>
+<edge source="uniprotkb:P54205" target="uniprotkb:Q54735">
+  <data key="d0">0.4</data>
+</edge>
+<edge source="uniprotkb:P54205" target="uniprotkb:P72758">
+  <data key="d0">0.5</data>
+</edge>
+<edge source="uniprotkb:P74227" target="uniprotkb:P52232">
+  <data key="d0">0.35</data>
+</edge>
+<edge source="uniprotkb:P74227" target="uniprotkb:P73263">
+  <data key="d0">0.35</data>
+</edge>
+<edge source="uniprotkb:P73728" target="uniprotkb:P73263">
+  <data key="d0">0.74</data>
+</edge>
+<edge source="uniprotkb:P73728" target="uniprotkb:P52232">
+  <data key="d0">0.56</data>
+</edge>
+<edge source="uniprotkb:P72758" target="uniprotkb:Q54735">
+  <data key="d0">0.68</data>
+</edge>
+<edge source="uniprotkb:P72758" target="uniprotkb:P72760">
+  <data key="d0">0.37</data>
+</edge>
+<edge source="uniprotkb:P72758" target="uniprotkb:P72761">
+  <data key="d0">0.37</data>
+</edge>
+<edge source="uniprotkb:P72758" target="uniprotkb:P73407">
+  <data key="d0">0.37</data>
+</edge>
+<edge source="uniprotkb:P72758" target="uniprotkb:P72759">
+  <data key="d0">0.37</data>
+</edge>
+<edge source="uniprotkb:P72758" target="uniprotkb:P72757">
+  <data key="d0">0.63</data>
+</edge>
+<edge source="uniprotkb:P72758" target="uniprotkb:P54206">
+  <data key="d0">0.35</data>
+</edge>
+<edge source="uniprotkb:P73263" target="uniprotkb:P73489">
+  <data key="d0">0.44</data>
+</edge>
+<edge source="uniprotkb:P73263" target="uniprotkb:P73348">
+  <data key="d0">0.59</data>
+</edge>
+<edge source="uniprotkb:P73263" target="uniprotkb:Q01952">
+  <data key="d0">0.44</data>
+</edge>
+<edge source="uniprotkb:P73263" target="uniprotkb:P80505">
+  <data key="d0">0.35</data>
+</edge>
+<edge source="uniprotkb:P73263" target="uniprotkb:P37101">
+  <data key="d0">0.35</data>
+</edge>
+<edge source="uniprotkb:P73263" target="uniprotkb:P72697">
+  <data key="d0">0.4</data>
+</edge>
+<edge source="uniprotkb:P73348" target="uniprotkb:P52232">
+  <data key="d0">0.56</data>
+</edge>
+<edge source="uniprotkb:Q55781" target="uniprotkb:Q55389">
+  <data key="d0">0.68</data>
+</edge>
+<edge source="uniprotkb:Q55389" target="uniprotkb:P27320">
+  <data key="d0">0.68</data>
+</edge>
+<edge source="uniprotkb:P27320" target="uniprotkb:P32422">
+  <data key="d0">0.32</data>
+</edge>
+<edge source="uniprotkb:P27320" target="uniprotkb:P12975">
+  <data key="d0">0.32</data>
+</edge>
+<edge source="uniprotkb:P73148" target="uniprotkb:Q55247">
+  <data key="d0">0.69</data>
+</edge>
+<edge source="uniprotkb:P52232" target="uniprotkb:P37101">
+  <data key="d0">0.35</data>
+</edge>
+<edge source="uniprotkb:P52232" target="uniprotkb:P80505">
+  <data key="d0">0.35</data>
+</edge>
+<edge source="uniprotkb:P52232" target="uniprotkb:P73530">
+  <data key="d0">0.35</data>
+</edge>
+<edge source="uniprotkb:P52232" target="uniprotkb:P72719">
+  <data key="d0">0.4</data>
+</edge>
+<edge source="uniprotkb:P52232" target="uniprotkb:P72697">
+  <data key="d0">0.4</data>
+</edge>
+<edge source="uniprotkb:P52232" target="uniprotkb:Q55624">
+  <data key="d0">0.4</data>
+</edge>
+<edge source="uniprotkb:P74295" target="uniprotkb:P74294">
+  <data key="d0">0.79</data>
+</edge>
+<edge source="uniprotkb:P74216" target="uniprotkb:P73457">
+  <data key="d0">0.37</data>
+</edge>
+<edge source="uniprotkb:P74216" target="uniprotkb:P73218">
+  <data key="d0">0.37</data>
+</edge>
+<edge source="uniprotkb:P74216" target="uniprotkb:P73117">
+  <data key="d0">0.37</data>
+</edge>
+<edge source="uniprotkb:P73457" target="uniprotkb:P73117">
+  <data key="d0">0.55</data>
+</edge>
+<edge source="uniprotkb:P73457" target="uniprotkb:Q55683">
+  <data key="d0">0.37</data>
+</edge>
+<edge source="uniprotkb:P73218" target="uniprotkb:Q55683">
+  <data key="d0">0.37</data>
+</edge>
+<edge source="uniprotkb:P73117" target="uniprotkb:Q55683">
+  <data key="d0">0.37</data>
+</edge>
+<edge source="uniprotkb:P73117" target="uniprotkb:P74180">
+  <data key="d0">0.37</data>
+</edge>
+</graph></graphml>
